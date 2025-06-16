@@ -1,0 +1,680 @@
+Searching for the templates...
+Matches from template source: NuGet.org
+These templates matched your input: 'web'
+
+Template Name       Short Name                                      Language        Package Name / Owners                                                                  Trusted  Downloads
+------------------  ----------------------------------------------  --------------  -------------------------------------------------------------------------------------  -------  ---------
+BLiP Web (ASP.N...  blip-web                                        [C#]            Take.Blip.Client.Templates / takenet                                                              1,748k 
+Uno Platform We...  wasmxfhead                                      [C#]            Uno.ProjectTemplates.Dotnet / unoplatform                                                 ✓       1,109k 
+Furion Razor Wi...  furionrazorapi                                  [C#]            Furion.Template.RazorWithWebApi / chinadotnet, dotnetchina, monk.soul                              912k  
+Lambda ASP.NET ...  serverless.AspNetCoreWebAPI                     [C#],F#         Amazon.Lambda.Templates / awsdotnet                                                       ✓        633k  
+Lambda ASP.NET ...  serverless.image.AspNetCoreWebAPI               [C#],F#         Amazon.Lambda.Templates / awsdotnet                                                       ✓        633k  
+Lambda ASP.NET ...  serverless.AspNetCoreWebApp                     [C#]            Amazon.Lambda.Templates / awsdotnet                                                       ✓        633k  
+Lambda Giraffe ...  serverless.Giraffe                              F#              Amazon.Lambda.Templates / awsdotnet                                                       ✓        633k  
+Serverless WebS...  serverless.WebSocketAPI                         [C#]            Amazon.Lambda.Templates / awsdotnet                                                       ✓        633k  
+Furion Blazor W...  furionblazorapi                                 [C#]            Furion.Template.BlazorWithWebApi / chinadotnet, dotnetchina, monk.soul                             409k  
+SAFE-Stack Web ...  SAFE                                            F#              SAFE.Template / Compositional-IT, theimowski                                                       309k  
+XUCore Web Api ...  xfreesql                                        [C#]            XUCore.Template.FreeSql / xuyiazl                                                                  268k  
+XUCore Web Api ...  xfreesql2                                       [C#]            XUCore.Template.EasyFreeSql / xuyiazl                                                              250k  
+Furion Blazor W...  fsblazorapi                                     [C#]            Furion.SqlSugar.Template.BlazorWithWebApi / monk.soul                                              220k  
+Furion Razor Wi...  fsrazorapi                                      [C#]            Furion.SqlSugar.Template.RazorWithWebApi / monk.soul                                               210k  
+WebAssembly Bro...  wasmbrowser                                     [C#]            Microsoft.NET.Runtime.WebAssembly.Templates / dotnetframework, Microsoft                  ✓        192k  
+WebAssembly Con...  wasmconsole                                     [C#]            Microsoft.NET.Runtime.WebAssembly.Templates / dotnetframework, Microsoft                  ✓        192k  
+MudBlazor Web App   mudblazor                                       [C#]            MudBlazor.Templates / MudBlazor                                                           ✓        164k  
+DevExpress Blaz...  dx.blazor.reporting.webassembly.hosted          [C#]            DevExpress.DotNet.Web.ProjectTemplates / devexpress                                       ✓        163k  
+DevExpress Blaz...  dx.blazor.reporting.webassembly                 [C#]            DevExpress.DotNet.Web.ProjectTemplates / devexpress                                       ✓        163k  
+WebSharper 9 .N...  websharper-prx                                  [C#],F#         WebSharper.Templates / intellifactory                                                              143k  
+WebSharper 9 Cl...  websharper-web                                  [C#],F#         WebSharper.Templates / intellifactory                                                              143k  
+WebSharper 9 HT...  websharper-html                                 [C#],F#         WebSharper.Templates / intellifactory                                                              143k  
+WebSharper 9 Ja...  websharper-ext                                  F#              WebSharper.Templates / intellifactory                                                              143k  
+WebSharper 9 Li...  websharper-lib                                  [C#],F#         WebSharper.Templates / intellifactory                                                              143k  
+WebSharper 9 Mi...  websharper-min                                  [C#],F#         WebSharper.Templates / intellifactory                                                              143k  
+WebSharper 9 Se...  websharper-svc                                  [C#],F#         WebSharper.Templates / intellifactory                                                              143k  
+WebSharper 9 Si...  websharper-spa                                  [C#],F#         WebSharper.Templates / intellifactory                                                              143k  
+Kubernetes Empt...  operator-web-empty                              [C#]            KubeOps.Templates / cbuehler                                                                       136k  
+Kubernetes Web ...  operator-web                                    [C#]            KubeOps.Templates / cbuehler                                                                       136k  
+TNT.AspNetCore....  tntapi                                          [C#]            TNT.AspNetCore.WebApi.Template / dodu                                                              129k  
+Equinox Web App     eqxwebcs                                        [C#]            Equinox.Templates / jet.com                                                                        120k  
+Equinox Web App     eqxweb                                          F#              Equinox.Templates / jet.com                                                                        120k  
+cloudscribe web...  cloudscribe                                     [C#]            cloudscribe.templates / cloudscribe, joeaudette                                           ✓        117k  
+DotVVM Web Appl...  dotvvm                                          [C#]            DotVVM.Templates / dotnetfoundation, hercegtomas, rigantisoftware                                  79k   
+Blazor Web App ...  blazormin                                       [C#]            Toolbelt.AspNetCore.Blazor.Minimum.Templates / jsakamoto                                           74k   
+Blazor WebAssem...  blazorwasmmin                                   [C#]            Toolbelt.AspNetCore.Blazor.Minimum.Templates / jsakamoto                                           74k   
+Magenic.Maqs.We...  Maqs.Webservice                                 [C#]            Magenic.Maqs.Templates / CognizantSoftvision, Magenic                                              74k   
+ASP.NET Core wi...  dotnettsreact                                   [C#]            Arragro.Dotnet.TS.React.Project.Template / arragro.com                                             73k   
+XUCore Web Api ...  xmediator                                       [C#]            XUCore.Template.Mediator / xuyiazl                                                                 69k   
+Fluent .NET MAU...  fluentmaui-blazor-web                           [C#]            Microsoft.FluentUI.AspNetCore.Templates / fluentui-blazor, Microsoft                      ✓        62k   
+Fluent Blazor W...  fluentblazor                                    [C#]            Microsoft.FluentUI.AspNetCore.Templates / fluentui-blazor, Microsoft                      ✓        62k   
+Fluent Blazor W...  fluentblazorwasm                                [C#]            Microsoft.FluentUI.AspNetCore.Templates / fluentui-blazor, Microsoft                      ✓        62k   
+ASP.NET Core wi...  web-extended                                    [C#]            MintPlayer.AspNetCore.IdentityServer.Templates / MintPlayer                                        61k   
+ASP.NET Core wi...  web-ssr                                         [C#]            MintPlayer.AspNetCore.IdentityServer.Templates / MintPlayer                                        61k   
+Amido Stacks CQ...  stacks-cqrs-app                                 [C#]            Amido.Stacks.CQRS.Templates / amidostacks                                                          59k   
+ASP.NET Core We...  cortside-web                                    angular         Cortside.Templates / cortside                                                                      58k   
+Genocs: Blazor ...  gnx-blazorwasm                                  [C#]            Genocs.BlazorWasm.Template / gioema_nocco                                                          58k   
+Bootstrap Blazo...  bbapp-global                                    [C#]            Bootstrap.Blazor.Templates / Argo, BootstrapBlazor                                                 56k   
+Bootstrap Blazo...  bbapp-per                                       [C#]            Bootstrap.Blazor.Templates / Argo, BootstrapBlazor                                                 56k   
+Bootstrap Blazo...  bbapp-wasm                                      [C#]            Bootstrap.Blazor.Templates / Argo, BootstrapBlazor                                                 56k   
+Bootstrap Blazo...  bbapp-wasm-std                                  [C#]            Bootstrap.Blazor.Templates / Argo, BootstrapBlazor                                                 56k   
+Genocs Microser...  gnx-librawebapi                                 [C#]            Genocs.Library.Template / gioema_nocco                                                             56k   
+MongoDB Web Api...  mongowebapi                                     [C#]            MongoWebApiStarter / djnitehawk                                                                    56k   
+ASP.NET Core We...  webapi2                                         [C#]            Microsoft.Identity.Web.ProjectTemplates / AzureAD, Microsoft                              ✓        54k   
+ASP.NET Core We...  webapp2,razor2                                  [C#]            Microsoft.Identity.Web.ProjectTemplates / AzureAD, Microsoft                              ✓        54k   
+ASP.NET Core We...  mvc2                                            [C#]            Microsoft.Identity.Web.ProjectTemplates / AzureAD, Microsoft                              ✓        54k   
+Blazor WebAssem...  blazorwasm2                                     [C#]            Microsoft.Identity.Web.ProjectTemplates / AzureAD, Microsoft                              ✓        54k   
+App with Vertic...  vertical-slice-architecture-blazor-webassembly  [C#]            VladislavAntonyuk.DotNetTemplates / vlad.antonyuk                                                  53k   
+Blazor WebApp w...  blazor-microsoft-identity                       [C#]            VladislavAntonyuk.DotNetTemplates / vlad.antonyuk                                                  53k   
+Onion Architect...  onion-blazor                                    [C#]            VladislavAntonyuk.DotNetTemplates / vlad.antonyuk                                                  53k   
+Onion Architect...  onion-blazor-repository                         [C#]            VladislavAntonyuk.DotNetTemplates / vlad.antonyuk                                                  53k   
+Onion Architect...  onion-blazor-webassembly                        [C#]            VladislavAntonyuk.DotNetTemplates / vlad.antonyuk                                                  53k   
+Piranha Empty W...  piranha.empty                                   [C#]            Piranha.Templates / dotnetfoundation, PiranhaCMS, tidyui                                  ✓        53k   
+Piranha MVC Web...  piranha.mvc                                     [C#]            Piranha.Templates / dotnetfoundation, PiranhaCMS, tidyui                                  ✓        53k   
+Piranha Razor W...  piranha.razor                                   [C#]            Piranha.Templates / dotnetfoundation, PiranhaCMS, tidyui                                  ✓        53k   
+Blazor Web Serv...  blazorblog                                      [C#]            Softlion.NotionSharp.TemplateProjects / softlion, Vapolia                                 ✓        52k   
+ASP.NET Core Empty  web                                             PHP             Peachpie.Templates / iolevel, jmisek, peachpie                                                     49k   
+PHP Blazor WebA...  blazorwasm                                      PHP             Peachpie.Templates / iolevel, jmisek, peachpie                                                     49k   
+PHP WebAssembly...  phpwasm                                         PHP             Peachpie.Templates / iolevel, jmisek, peachpie                                                     49k   
+Team Web Mvc We...  teamwebmvc                                      [C#]            TeamWeb.MvcTemplate / melvin.vermeer                                                               45k   
+Genocs: Blazor ...  gnx-blazorclean                                 [C#]            Genocs.BlazorClean.Template / gioema_nocco                                                         40k   
+WPF Window with...  wpf-bwv                                         [C#]            VijayAnand.Wpf.Blazor / egvijayanand                                                      ✓        40k   
+FluentUI Blazor...  fluentuiblazorwasm                              [C#]            Microsoft.Fast.Templates.FluentUI / fast, Microsoft                                       ✓        39k   
+GoldenEye Simpl...  SimpleDDD                                       [C#]            GoldenEye.WebApi.Template.SimpleDDD / oskar.dudycz                                                 39k   
+Orchard Core Cm...  occms                                           [C#]            OrchardCore.ProjectTemplates / Orchard, sebastienros                                      ✓        37k   
+Orchard Core Mv...  ocmvc                                           [C#]            OrchardCore.ProjectTemplates / Orchard, sebastienros                                      ✓        37k   
+Sukt.Core Dotnet    suktcorewebapitpl                               [C#]            SuktCoreWebApi.Templates / KawhiYatou                                                              36k   
+Amido Stacks We...  stacks-webapi                                   [C#]            Amido.Stacks.Templates / amidostacks                                                               35k   
+.NET MAUI Conte...  maui-bwv                                        [C#]            VijayAnand.MauiTemplates / egvijayanand                                                   ✓        33k   
+.NET MAUI Conte...  maui-bwv-cs                                     [C#]            VijayAnand.MauiTemplates / egvijayanand                                                   ✓        33k   
+SAFEr Web App v...  SAFEr                                           F#              SAFEr.Template / dzoukr                                                                            33k   
+TDAI.Core WebAPI    tdaicoretpl                                     [C#]            TDAI.Core.Webapi.Template / visker                                                                 32k   
+HAS web macro       has-webmacro                                    [C#]            Hopex.ApplicationServer.Templates / mega-international                                             30k   
+HAS web site mo...  has-website                                     [C#]            Hopex.ApplicationServer.Templates / mega-international                                             30k   
+Petabridge ASP....  pb-akka-web                                     [C#]            Petabridge.Templates / Petabridge                                                         ✓        28k   
+Amido Stacks CQ...  stacks-cqrs-events-webapi                       [C#]            Amido.Stacks.CQRS.Events.Templates / amidostacks                                                   27k   
+Browser extensi...  browserext                                      [C#]            Blazor.BrowserExtension.Template / mingyaulee                                                      27k   
+AXOOM WebServic...  axoom-webservice                                [C#]            Axoom.Templates.WebService / gft-sts                                                               26k   
+ASP.NET Core We...  CoreWebAPI.Template                             [C#]            CoreWebAPI.Template / lison.li, zengzhiwen                                                         25k   
+Blazor Bootstra...  blazorbootstrap-wasm                            [C#]            Blazor.Bootstrap.Templates / gvreddy04                                                             25k   
+Blazor Bootstra...  blazorbootstrap-wasm-net6                       [C#]            Blazor.Bootstrap.Templates / gvreddy04                                                             25k   
+Blazor Bootstra...  blazorbootstrap-wasm-empty                      [C#]            Blazor.Bootstrap.Templates / gvreddy04                                                             25k   
+Blazor Bootstra...  blazorbootstrap-wasm-msi                        [C#]            Blazor.Bootstrap.Templates / gvreddy04                                                             25k   
+Blazor Bootstra...  blazorbootstrap-wasm-msi-net6                   [C#]            Blazor.Bootstrap.Templates / gvreddy04                                                             25k   
+IntelliTect Coa...  coalescevue                                     [C#]            IntelliTect.Coalesce.Vue.Template / IntelliTect-Nuget                                              24k   
+Wiz Template - ...  wizapi                                          [C#]            Wiz.Dotnet.Template.API / Wiz                                                                      24k   
+Kros CQRS ASP.N...  kros-cqrs                                                       Kros.Templates.CqrsProject / Kros                                                                  23k   
+FewBox WebApi       fb                                              [C#]            FewBox.Template.Service / fewbox                                                                   22k   
+HanaTech Comput...  hanatech_computer_web                           [C#]            HanaTech.Template.Mvc_Angular / hanatech_qd                                                        22k   
+MASA Blazor Pro...  masabp                                          [C#]            Masa.Template / masastack                                                                          22k   
+MASA Blazor Web...  masabw                                          [C#]            Masa.Template / masastack                                                                          22k   
+Ossa Server Sid...  ossa-webapp-server                              [C#]            Ossa.TestFramework.Templates / Ossa-IT                                                             22k   
+SDG Web API Tem...  sdg-api                                         [C#]            SDG.templates.Web.API / gstark, jason-perry                                                        22k   
+SMBC WebApi boi...  smbc-webapi                                     [C#]            StockportGovUK.AspNetCore.BoilerPlate.Service / Stockport-Council                                  21k   
+Windows Form wi...  winforms-bwv                                    [C#]            VijayAnand.WindowsForms.Blazor / egvijayanand                                             ✓        21k   
+ASP.NET Core (C...  cawebapp                                        [C#]            Rightek.CleanArchitecture.Template / rightek                                                       20k   
+Eisk Web Api        eiskwebapi                                      [C#]            Eisk.WebApi / ashrafalam                                                                           20k   
+FKSharp.AdminSy...  fkadmin-web                                     [C#]            Hello.Demo.WebApp.Template / helihui                                                               20k   
+FullStackHero W...  fsh-api                                         [C#]            FullStackHero.WebAPI.Boilerplate / iammukeshm                                                      20k   
+NRSRx WebApi        nrsrx-webapi                                    [C#]            IkeMtz.NRSRx.Templates / ikemtz                                                                    20k   
+NRSRx WebApi Tests  nrsrx-webapi-tests                              [C#]            IkeMtz.NRSRx.Templates / ikemtz                                                                    20k   
+React.NET Webpa...  reactnet-webpack                                [C#]            React.Template / dustinsoftware                                                                    20k   
+Intility Api        iwebapi                                         [C#]            Intility.Templates / Intility                                                                      18k   
+XUCore Web Api ...  xmfreesql                                       [C#]            XUCore.Template.MiniFreeSql / xuyiazl                                                              18k   
+ASP.NET Core We...  mvc-adminlte                                    [C#]            Dynamic.NET.AdminLTE.ProjectTemplates / dotnet-express, LeonEx                                     17k   
+Sukt.Core Basic     suktcorebusinesswebapitpl                       [C#]            SuktCoreBusinessWebApi.Templates / KawhiYatou                                                      17k   
+Windows Form wi...  winforms-bwv                                    [C#]            VijayAnand.BlazorTemplates / egvijayanand                                                 ✓        17k   
+WPF Window with...  wpf-bwv                                         [C#]            VijayAnand.BlazorTemplates / egvijayanand                                                 ✓        17k   
+A2Soft Web API ...  A2S.Api                                         [C#]            A2Soft.Templates.Api / A2Soft                                                                      16k   
+ASP.Net 4.x Empty   systemweb                                       [C#],VB         MSBuild.SDK.SystemWeb.Templates / Cloud3D, CZEMacLeod                                              16k   
+ASP.Net 4.x Raz...  systemwebrazorlib                               [C#],VB         MSBuild.SDK.SystemWeb.Templates / Cloud3D, CZEMacLeod                                              16k   
+ASP.Net 4.x Web...  systemwebfull                                   [C#],VB         MSBuild.SDK.SystemWeb.Templates / Cloud3D, CZEMacLeod                                              16k   
+CleanArchitectu...  CleanArchitectureNetCoreWebAPI                  [C#]            CleanArchitecture.ASP.NETCore.WebAPI / hack3rlife                                                  16k   
+Genocs: Web Api...  gnx-webapi                                      [C#]            Genocs.WebApiTemplate / gioema_nocco                                                               16k   
+isRock.Template...  linewebhook                                     [C#]            isRock.Template.LineWebHook / twdeveloper                                                          16k   
+LineTen Web App...  ltwebapp                                        [C#]            LineTen.Utility.Templates / lineten                                                                16k   
+LineTen WebAPI ...  ltazfunc                                        [C#]            LineTen.Utility.Templates / lineten                                                                16k   
+LineTen WebAPI ...  ltmswebapi                                      [C#]            LineTen.Utility.Templates / lineten                                                                16k   
+Microsoft Teams...  teamswebhook                                    [C#]            MicrosoftTeams.Templates / TonyXia                                                                 16k   
+Simplify.Web an...  sweb.angular                                    [C#]            Simplify.Web.Templates / Alexanderius, SimplifyNet                                                 16k   
+Simplify.Web ap...  sweb.api                                        [C#]            Simplify.Web.Templates / Alexanderius, SimplifyNet                                                 16k   
+Simplify.Web mi...  sweb.minimal                                    [C#]            Simplify.Web.Templates / Alexanderius, SimplifyNet                                                 16k   
+Simplify.Web Si...  sweb.api.scheduler                              [C#]            Simplify.Web.Templates / Alexanderius, SimplifyNet                                                 16k   
+Simplify.Web wi...  sweb.api.windowsservice                         [C#]            Simplify.Web.Templates / Alexanderius, SimplifyNet                                                 16k   
+Aklia.Core          AkliaWebAPI                                     [C#]            Aklia.Core.WebAPI / lijianbiao                                                                     15k   
+Auth0 ASP.NET C...  auth0webapi                                     [C#]            Auth0.Templates / auth0                                                                   ✓        15k   
+Auth0 ASP.NET C...  auth0webapp                                     [C#]            Auth0.Templates / auth0                                                                   ✓        15k   
+Auth0 Blazor We...  auth0blazor                                     [C#]            Auth0.Templates / auth0                                                                   ✓        15k   
+Auth0 Blazor We...  auth0blazorwasm                                 [C#]            Auth0.Templates / auth0                                                                   ✓        15k   
+Industrial App ...  iasmvc                                          [C#]            IntelligentPlant.IndustrialAppStore.Templates / intelligentplant                                   15k   
+Logibricks ASP....  lbcqrs                                          [C#]            Logibricks.MicroService.CQRS.Template / doney-logibricks, sumesh92                                 15k   
+WebAPI with a c...  webapiclean                                     [C#]            WebApiClean.Template.Solution / reddestroer                                                        15k   
+ASP.NET Web API...  rpiwebapi                                       [C#]            RaspberryPi.Template.WebApi / SuperJMN                                                             14k   
+Audited Web API     webapiaudit                                     [C#]            Audit.WebApi.Template / thepirat000, thepirat0000                                                  14k   
+BLiP Web (.NET ...  blip-web                                        [C#]            Take.Blip.Client.ConsoleTemplate / takenet                                                         14k   
+Clean Blazor We...  cleanblazorwasm                                 [C#]            FriscoVInc.DotNet.Templates.CleanBlazor / friscov                                         ✓        14k   
+Cofoundry Web       cofoundry-web                                   [C#]            Cofoundry.Templates / Cofoundry                                                           ✓        14k   
+F# ASP.NET Core...  webapi                                          F#              WebAPI.FSharp.Template / MNie                                                                      14k   
+MS REST-Api tem...  ddd-webapi                                      [C#]            FJuette.Template.WebApi / FabianJ                                                                  14k   
+Statiq Web Cons...  statiq-web                                      [C#]            Statiq.Web.Templates / Statiq                                                                      14k   
+WebAssembly Bro...  wasmbrowser                                     [C#]            Microsoft.NET.Runtime.WebAssembly.Templates.net9 / dotnetframework, Microsoft             ✓        14k   
+WebAssembly Con...  wasmconsole                                     [C#]            Microsoft.NET.Runtime.WebAssembly.Templates.net9 / dotnetframework, Microsoft             ✓        14k   
+ASP.NET Core St...  staticweb                                       [C#]            MadsKristensen.AspNetCore.Web.Templates / madskristensen                                  ✓        13k   
+ASP.NET Core We...  httpapi                                         [C#]            Popov1024.HttpApi.Template.CSharp / popov1024                                                      13k   
+Ater Web API Light  atlight                                         [C#]            ater.web.templates / NilTor                                                                        13k   
+Bellatrix.Web.G...  bellatrix-web-getting-started                                   Bellatrix.Web.GettingStarted / angelovstanton                                                      13k   
+Empty administr...  idserveradminempty                              [C#]            SimpleIdServer.Templates / SimpleIdServer                                                          13k   
+Identity Server...  idserveradmin                                   [C#]            SimpleIdServer.Templates / SimpleIdServer                                                          13k   
+NetCorePal Clou...  netcorepal-web                                  [C#]            NetCorePal.Template / netcorepal                                                                   13k   
+Orleans: WebAPI...  orleans-webapi                                  [C#],F#         Orleans.Contrib.UniversalSilo.Templates / johnazariah                                              13k   
+Web API Framework   atapi                                           [C#]            ater.web.templates / NilTor                                                                        13k   
+WebApi Start Te...  webapitemp                                      [C#]            Start.Web.Api.Template / Medgat                                                                    13k   
+XingFeng NetCor...  XTemplate                                       [C#]            XingFeng.Template.NetCore / pengyouak                                                              13k   
+ASP.NET CORE We...  dntcore-api                                     [C#]            DNTFrameworkCoreTemplateAPI / rabbal                                                               12k   
+Bellatrix.Web.M...  bellatrix-web-mstest-tests                                      Bellatrix.Web.MSTest.Tests / angelovstanton                                                        12k   
+Bellatrix.Web.N...  bellatrix-web-nunit-tests                                       Bellatrix.Web.NUnit.Tests / angelovstanton                                                         12k   
+Blazor WebAssem...  fsh-blazor                                      [C#]            FullStackHero.BlazorWebAssembly.Boilerplate / iammukeshm                                           12k   
+CliniWebAPITemp...  cliniapi                                        [C#]            Clini.WebAPI.Template / YDLS                                                                       12k   
+Dynamicweb 10 -...  dw10-cms                                        [C#]            Dynamicweb.ProjectTemplates / DWQA, Dynamicweb, Dynamicweb-Dev                                     12k   
+Dynamicweb 10 -...  dw10-suite                                      [C#]            Dynamicweb.ProjectTemplates / DWQA, Dynamicweb, Dynamicweb-Dev                                     12k   
+Flow WebApi         flowapi                                         [C#]            FlowEngine.Templates / PeteRobinson                                                                12k   
+Go Project with...  gogin                                           Go              Duotify.Templates.DotNetNew / will                                                                 12k   
+isRock.Web.Core...  pagemethodexample                               [C#]            isRock.Web.Core.Razor.Example / twdeveloper                                                        12k   
+isRock.Web.Core...  isPageMethodExample                             [C#]            isRock.Web.Core.Razor.Example / twdeveloper                                                        12k   
+isRock.Web.Core...  isGoogleSSOPage                                 [C#]            isRock.Web.Core.Razor.Example / twdeveloper                                                        12k   
+isRock.Web.Core...  isLineLoginPage                                 [C#]            isRock.Web.Core.Razor.Example / twdeveloper                                                        12k   
+isRock.Web.Core...  isLoginPage                                     [C#]            isRock.Web.Core.Razor.Example / twdeveloper                                                        12k   
+isRock.Web.Core...  isMSSSOPage                                     [C#]            isRock.Web.Core.Razor.Example / twdeveloper                                                        12k   
+Lingman WebAPI      lingman-webapi                                  [C#]            lingman-webapi / jackyzhong                                                                        12k   
+Thunder Web Fra...  thunder                                         [C#]            Thunder.Web.Framework.Template / jefersonsv                                                        12k   
+Tugboat: .NET W...  dotnet-webapi                                   [C#],F#         WestIsland.Tugboat.Templates / johnazariah                                                         12k   
+Tugboat: Orlean...  orleans-directclient                            [C#],F#         WestIsland.Tugboat.Templates / johnazariah                                                         12k   
+Dalion Web App      dalionwebapp                                                    Dalion.WebApp / DavidLievrouw                                                                      11k   
+DisCatSharp Web...  DCSWebApp                                       [C#]            DisCatSharp.ProjectTemplates / aiko, Aiko-IT-Systems, AITSYS, Badger2-3, DisCatSharp      ✓        11k   
+Milvasoft Web Ef    milvawebef                                      [C#]            Milvasoft.Templates.Web.Ef / Milvasoft                                                    ✓        11k   
+Nancy Webservic...  nancyws                                         [C#]            Nancy.Template.Webservice / jaxelr                                                                 11k   
+SALT template: ...  saltwebapi                                      [C#]            Salt.Microservices.Templates / ZhivovOleg                                                          11k   
+[EMG] ASP.NET C...  emg-web-api                                     [C#]            EMG.Templates / emg                                                                       ✓        10k   
+Arcus WebAPI v2...  arcus-webapi                                    [C#]            Arcus.Templates.WebApi / Codit                                                                     10k   
+ASP.NET Core Mi...  eswebapi                                        [C#]            ESMicroServiceWebApiTemplate / tsramanathan                                                        10k   
+ASP.NET Core We...  webapilambda                                    [C#]            CodeItYourself.WebAPI.AWS.Lambda / cmendible                                                       10k   
+ASP.NET Core We...  webrpi                                          [C#]            CodeItYourself.ASPNET.Raspberry / cmendible                                                        10k   
+Blazor without ...  blazor-vanilla-wasm                             [C#]            BlazorTemplates / blazor-templates, stefanloerwald                                                 10k   
+Carter Webservi...  carterws                                        [C#]            CarterServiceTemplate / jaxelr                                                                     10k   
+Ensono Stacks C...  stacks-cqrs                                     [C#]            Ensono.Stacks.Templates / amidostacks                                                              10k   
+Ensono Stacks W...  stacks-webapi                                   [C#]            Ensono.Stacks.Templates / amidostacks                                                              10k   
+Event Sourcing ...  evtsrc                                          [C#]            Event-Sourcing.Backbone.Templates / bnaya                                                          10k   
+GenHTTP: Static...  genhttp-website-static                          [C#]            GenHTTP.Templates / Kaliumhexacyanoferrat                                                          10k   
+GenHTTP: Webser...  genhttp-webservice                              [C#]            GenHTTP.Templates / Kaliumhexacyanoferrat                                                          10k   
+GenHTTP: Webser...  genhttp-webservice-controllers                  [C#]            GenHTTP.Templates / Kaliumhexacyanoferrat                                                          10k   
+GenHTTP: Webser...  genhttp-webservice-minimal                      [C#]            GenHTTP.Templates / Kaliumhexacyanoferrat                                                          10k   
+GenHTTP: Websocket  genhttp-websocket                               [C#]            GenHTTP.Templates / Kaliumhexacyanoferrat                                                          10k   
+Philadelphia To...  phillyapp                                       [C#]            Philadelphia.Template / dpy                                                                        10k   
+Stelzi79 NetSdk...  netsdk-blzwas                                   [C#]            Stelzi79.NetSdk.ProjectTemplate / Stelzi79                                                         10k   
+Web Hosted Worker   webhostedworker                                 [C#]            WebHostedWorker / OleConsignado                                                                    10k   
+.NET 5 REST API...  webapi5                                         [C#]            JMI.DotNet5.REST.API.Template.CSharp / jonmikeli                                                    9k   
+AI Chat Web App     aichatweb                                       [C#]            Microsoft.Extensions.AI.Templates / dotnetframework, Microsoft                            ✓         9k   
+Angular web mic...  msa-web                                         [C#]            MSA.Templates / ftechmax                                                                            9k   
+ASP.NET Core MV...  mvc-id-azure-tables                             [C#]            ElCamino.AspNetCore.Identity.AzureTable.Templates / dotnetdavy                            ✓         9k   
+ASP.NET Core Ra...  rzp-id-azure-tables                             [C#]            ElCamino.AspNetCore.Identity.AzureTable.Templates / dotnetdavy                            ✓         9k   
+ASP.NET WEB API...  aspnet-core-web-api                             [C#]            WEB-API-TEMPLATE / Sinkarq                                                                          9k   
+Clean Architect...  cleanarch                                       [C#]            Clean.Architecture.Template / ktutak                                                                9k   
+Clean Lean Arch...  cla-sln                                         [C#]            Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template / rimaz523                              9k   
+Component (H's ...  h.necessaire.webapp.component                   [C#]            H.Necessaire.WebApp.Templates / hinteadan                                                 ✓         9k   
+EshopWorld Web ...  ESWWebAPI                                                       Eshopworld.WebAPIFabric.Template / eshopworld                                                       9k   
+Guilded.NET Bas...  guilded.webhook                                 [C#],F#,VB      Guilded.Templates / IdkGoodName                                                                     9k   
+H's Necessaire ...  h.necessaire.webapp                             [C#]            H.Necessaire.WebApp.Templates / hinteadan                                                 ✓         9k   
+HTL Leonding We...  leowebapi                                       [C#]            HTLLeonding.Utility.Templates / HTL-Leonding                                              ✓         9k   
+IntelliTect Coa...  coalesceko                                      [C#]            IntelliTect.Coalesce.KnockoutJS.Template / IntelliTect-Nuget                                        9k   
+kentxxq.Templat...  k-webapi                                        [C#]            kentxxq.Templates / kentxxq                                                                         9k   
+LoginPage (H's ...  h.necessaire.webapp.loginpage                   [C#]            H.Necessaire.WebApp.Templates / hinteadan                                                 ✓         9k   
+Page (H's Neces...  h.necessaire.webapp.page                        [C#]            H.Necessaire.WebApp.Templates / hinteadan                                                 ✓         9k   
+QuickAdmin.Net ...  qadmin                                          [C#]            QuickAdmin.Net.Templates / eCollab                                                                  9k   
+QuickAdmin.Net ...  qadminmvc                                       [C#]            QuickAdmin.Net.Templates / eCollab                                                                  9k   
+Spark.NET Web A...  sparkblazor                                     [C#]            Spark.Templates / wwalker                                                                           9k   
+Spark.NET Web A...  sparkrazor                                      [C#]            Spark.Templates / wwalker                                                                           9k   
+ASP.NET Core We...  zoraapi                                         [C#]            ZoraApi.Framework / claymodel                                                                       8k   
+ASP.NET Core We...  emh-webapi                                      [C#]            EMH.Templates.MVCAPI / Email-Hippo-Ltd                                                              8k   
+Bellatrix.SpecF...  bellatrix-specflow-web-mstest-tests                             Bellatrix.SpecFlow.Web.MSTest.Tests / angelovstanton                                                8k   
+Blazing Story (...  blazingstorywasm                                [C#]            BlazingStory.ProjectTemplates / jsakamoto                                                           8k   
+Bolt.Template.W...  bolt-webapi                                     [C#]            Bolt.Template.WebApi / ruhul.amin                                                                   8k   
+Clean Web API T...  CleanWebApi                                     [C#]            CleanWebApi.Template / stphnwlsh                                                                    8k   
+Dolite Web API ...  dl-api                                          [C#]            Dolite.Templates.Api.Solution / Snowind                                                             8k   
+Elfland templat...  elfapi                                          [C#]            Elfland.Templates / Kamasylvia                                                                      8k   
+Ext.NET MVC Web...  extnet-mvc                                      [C#]            Ext.NET.Templates / ext.net                                                                         8k   
+Ext.NET Razor P...  extnet                                          [C#]            Ext.NET.Templates / ext.net                                                                         8k   
+Genocs: Blazor ...  gnx-wasmblazor                                  [C#]            Genocs.Blazor.Template / gioema_nocco                                                               8k   
+Ignis Templates...  ignis-wasm                                      [C#]            Ignis.Templates / dvol                                                                              8k   
+NetPro Webapi       netproapi                                       [C#]            netproapi / LeonKou                                                                                 8k   
+Akka.NET + Akka...  akka.cluster.webapi                             [C#]            Akka.Templates / Akka                                                                     ✓         7k   
+ASP.NET Core Ex...  webappex                                                        AspNetCore.Template.Extended / FreeParticle                                                         7k   
+ASP.NET Core Mi...  eswebapi                                        [C#]            MicroServiceWebApiTemplate / tsramanathan                                                           7k   
+ASP.NET Core We...  msbot                                                           msbot-template / jamesemann                                                                         7k   
+ASP.NET WebAPI ...  oa-sln-aspnet-webapi                            [C#]            AHutak.OnionArchitecture.AspNet / agutak                                                            7k   
+Byndyusoft Web ...  bsapi                                           [C#]            Byndyusoft.DotNet.Web.ProjectTemplate / byndyusoft.com                                              7k   
+CG4 Web API         cg4api                                          [C#]            CG4.Templ.WebApi / CG4                                                                              7k   
+CoreTemplate =>...  ct-create-react-native-app                      [C#]            CoreTemplates / iamvishnusankar                                                                     7k   
+hcg.core8webapi     hcg-WebAPI-core8                                [C#]            HCG.Templates / CSodus                                                                              7k   
+hcg.corewebapi      hcg-corewebapi                                  [C#]            HCG.Templates / CSodus                                                                              7k   
+hcg.webapi          hcg-webapi                                      [C#]            HCG.Templates / CSodus                                                                              7k   
+hcg.webapp          hcg-razor-pages                                 [C#]            HCG.Templates / CSodus                                                                              7k   
+Homely ASP.NET ...  homelyapi                                       [C#]            Homely.AspNetCore.WebApi.Template / Homely                                                          7k   
+MonoGame WebGL ...  mgbridge                                        [C#]            MonoGame.Template.Bridge.CSharp / cra0zy                                                            7k   
+Orchard Core Cm...  occms                                           [C#]            OrchardCore.Cms.Templates / Orchard, sebastienros                                         ✓         7k   
+Polymorphic Web...  polywapi                                        [C#]            PolymorphicWebAPI.OnionArchitecture.Template / ifeanyi.nwodo                                        7k   
+Web API based o...  r-systems-clean-architecture                    [C#]            R.Systems.Template / lrydzkowski                                                                    7k   
+XUCore Web Razo...  xrazorpage-mch                                  [C#]            XUCore.Template.RazorPageMch / xuyiazl                                                              7k   
+.NET 5 IoT Hub ...  iothubwebapi5                                   [C#]            JMI.DotNet5.IoTHub.REST.API.Template.CSharp / jonmikeli                                             6k   
+ASP.NET Core We...  webapi-templates                                [C#]            AspNetCore.WebApi.Templates / lelong37, tonysneed                                                   6k   
+ASP.NET Core We...  webapi-appdef                                   [C#]            Calabonga.AspNetCore.AppDefinitions.Template / calabonga                                            6k   
+ASP.NET Core We...  aksapi                                          [C#]            RobBell.AksApi.Template / robbell                                                                   6k   
+ASP.NET Web API...  ag-web-api                                                      AggregateGroot.TemplatePack / david.palumbo                                                         6k   
+Basic ASP.NET C...  basicwebapi                                     [C#]            NetEscapades.Templates / andrewlock                                                                 6k   
+BoltOn WebAPI       bowebapi                                        [C#]            BoltOn.Templates / gokulnath                                                                        6k   
+Ibtikar .net co...  dotnetcorethebpp                                [C#]            Ibtkiar.DotNetCore.TheBoilerPlateTemplate / tarek.iraqi                                             6k   
+Ingos Web API w...  ingos-abp-api                                   [C#]            Ingos.Abp.Templates / Danvic.Wang                                                                   6k   
+Microservice AP...  webapicore2                                     [C#]            DotNetCore2WebApiTemplate / tsramanathan                                                            6k   
+Milvasoft Web M...  milvawebmongo                                   [C#]            Milvasoft.Templates.Web.Mongo / Milvasoft                                                 ✓         6k   
+NetActive Clean...  cleanarch-webapi                                [C#]            NetActive.CleanArchitecture.Template / brinkie2004                                                  6k   
+Nist Web API        nist                                            [C#]            Nist.Template / vosarat_e                                                                           6k   
+Vuejs C# WebAPI...  VueJsWebAPI                                                     Indianadavy.VueJsWebAPITemplate.CSharp / indianadavy                                                6k   
+WebFrame Templa...  webframe                                        F#              RussBaz.WebFrame.Templates / RussBaz                                                                6k   
+ZhouYou WebApi      zhouyouwebapi                                   [C#]            ZY.Template.Core / daojuzhizhao                                                                     6k   
+Aksel Web Api       netcore-api                                     [C#]            AkselArzuman.Dotnet.Templates / akselarzuman                                                        5k   
+Aoite Web Manag...  awb                                             [C#]            Aoite.WebTemplate / treenew                                                                         5k   
+ASD Web API Tem...  asdapi                                          [C#]            Kalbe.Template.AsdBackendTemplate / KF-Corp                                                         5k   
+ASP.NET Core Empty  swift-web                                       Swift           SourceGear.Bridge.Swift.Templates / SourceGear                                            ✓         5k   
+ASP.NET Core We...  abp                                             [C#]            AbpTemplate / qix                                                                                   5k   
+ASP.NET Core We...  mlnet-web-embedded                              [C#]            ML.NET.Templates / aslotte                                                                          5k   
+bit BlazorWeb       bit-web                                         [C#]            Bit.BlazorWeb / bit-foundation                                                                      5k   
+CCF Clean Web API   CCFClean.WebApi                                 [C#]            CCF.Clean.Dotnet.WebAPI / jitesh.sonkusare                                                          5k   
+Cngot.NetCore.T...  CngotWebApi                                     [C#]            Cngot.NetCore.TemplateApi / wangyuzhu88                                                             5k   
+DevInsightForge...  devforgeapi                                     [C#]            DevInsightForge.Templates.Api / DevInsightForge                                                     5k   
+GTWeb               gtweb                                           [C#]            GT.Framework.Web / geethin, NilTor                                                                  5k   
+Herald Template...  herald-api                                      [C#]            Herald.Template.WebAPI / tcfialho                                                                   5k   
+Kirov WebAPI        kirov-webapi                                    [C#]            kirov-webapi / kirov-opensource                                                                     5k   
+Lykke Web API       lykkewebapi                                     [C#]            Lykke.WebApiTemplate.CSharp / cameronfletcher                                                       5k   
+Microservice AP...  webapicore2                                     [C#]            DotNetCore2.0WebApiTemplate / tsramanathan                                                          5k   
+Ning Core Webapi    ningcoretpl                                     [C#]            Ning.Core.Webapi.Template / ning                                                                    5k   
+PCF Ready ASP.N...  pvtlwebapi                                      [C#]            PivotalServices.WebApiTemplate.CSharp / ajaganathan, cyao-pivotal, PivotalServicesOss     ✓         5k   
+Sier Soluções W...  sier-api                                        [C#]            Sier.WebAPI.Boilerplate / juscelior                                                                 5k   
+Steeltoe ASP.NE...  steeltoe-webapi                                 [C#]            Steeltoe.NetCoreTool.Templates / dotnetfoundation, SteeltoeOSS                            ✓         5k   
+Turkuvaz WebApi...  turkuvazwebapiproject                           [C#]            Turkuvaz.WebApi.Project / turkuvaz                                                                  5k   
+Web Api with SPA    WebApiWithSpa                                                   WebApiWithSpa.Template.CSharp / GlenHallworth                                                       5k   
+webapi-based Se...  cicee-webapi-service                            [C#],F#         Cicee.Templates / jds                                                                               5k   
+WebAssembly .NE...  webassembly                                     [C#]            WebAssembly.Templates / havendv                                                                     5k   
+Xizhaoip Webapi     xwebapi                                         [C#]            Xizhaoip.Microserver.WebapiTemplateForFasthttpapi / stosc                                           5k   
+.NET 8 REST API...  webapidb8                                       [C#]            JMI.DotNet8.REST.API.DB.Template.CSharp / jonmikeli                                                 4k   
+.NET Clean Web API  webapi-cl                                       [C#]            TH.CleanWebApiTemplate / thudjek                                                                    4k   
+.NET Core 3.x R...  webapi3                                         [C#]            JMI.DotNetCore3x.REST.API.Template.CSharp / jonmikeli                                               4k   
+.Net Web Api        web-api                                         [C#]            Templates.WebApi / chrilleson                                                                       4k   
+Ashkan Starter Web  ashkanweb                                       [C#]            Ashkan.Custom.Template / ashkan.rmk                                                                 4k   
+ASIGMA ASP.NET ...  asigmaaspwebapi                                 [C#]            ASIGMA.AspNetCore.API.Template / ASIGMA_Technology_Services                               ✓         4k   
+ASP.NET Core We...  ruovea-open-api                                 [C#]            RuoVea.Api.Template / ruovea                                                                        4k   
+ASP.NET Core We...  webechobot                                      [C#]            CodeItYourself.WebAPI.EchoBot / cmendible                                                           4k   
+ASP.NET Core We...  ruovea-web                                      [C#]            RuoVea.Web.Template / ruovea                                                                        4k   
+BehzadWeb           Bhz                                             [C#]            MyWebTemplate / Barnameamooz                                                                        4k   
+Chase Web Server    chase-webapi                                    [C#]            Chase.WebServerTemplate / dcman58                                                                   4k   
+CommonLib WebAP...  clwebapi                                        [C#]            CommonLib.Templates / kokyu02                                                                       4k   
+Core.Webapi.Tem...  corewebapi                                      [C#]            Webapi.Core.Template.HGD / hu53135580                                                               4k   
+DemoTemp            jy_web_demo                                     [C#]            Demo.Temp.Api.jy / jiangyan33                                                                       4k   
+EC.Dataverse.We...  EC.Dataverse.Web.Blazor                         [C#]            EC.ProjectTemplates / charles.kuperus                                                               4k   
+EC.Dataverse.We...  EC.Dataverse.Web.BlazorServer                   [C#]            EC.ProjectTemplates / charles.kuperus                                                               4k   
+FocusBC Blazor ...  fbcblazorwasm                                   [C#]            FocusBC.ProjectTemplates / FocusBC                                                                  4k   
+FocusBC Web Api     fbcwebapi                                       [C#]            FocusBC.ProjectTemplates / FocusBC                                                                  4k   
+FsLab.Fornax.Te...  fslab-web                                       F#              FsLab.Fornax.Template / Mutagene                                                                    4k   
+Fur Core Webapi     FurWebapiTpl                                    [C#]            Fur.Core.Webapi.Template / Rockn                                                                    4k   
+GeoBlazor Hybri...  geoblazor-maui-web                              [C#]            dymaptic.GeoBlazor.Templates / dymaptic                                                             4k   
+GeoBlazor Web App   geoblazor                                       [C#]            dymaptic.GeoBlazor.Templates / dymaptic                                                             4k   
+GeoBlazor WebAs...  geoblazor-wasm                                  [C#]            dymaptic.GeoBlazor.Templates / dymaptic                                                             4k   
+Hits Web Templa...  hitsweb                                         F#              Hits.Web.Template / HardtITSolutions                                                                4k   
+Jzg WebApi 应用...  jzgwebapi                                       [C#]            Jzg.WebApi.Application.Templates / Jzg                                                              4k   
+Kros CQRS Demo ...  kros-cqrs-demo                                                  Kros.Templates.CqrsProjectDemo / Kros                                                               4k   
+MrGuan Web          MrGuanWeb                                       [C#]            MrGuan.Web / MrGuan                                                                                 4k   
+Nethereum Web F...  nethereumfaucet                                 [C#]            Nethereum.Templates.Faucet / juanblanco, nethereum                                        ✓         4k   
+Nethereum WebSo...  nethereum-ws-stream                             [C#]            Nethereum.Templates.Pack / juanblanco, nethereum                                          ✓         4k   
+Pivotal WebAPI ...  pvtlwebapi2                                     [C#]            PivotalServices.WebApiTemplate.CSharp2 / ajaganathan, PivotalServicesOss                  ✓         4k   
+Templements ASP...  templementsweb                                  [C#]            Templements.Core / eidias                                                                           4k   
+VNS Web API Pro...  vnswebapi                                       [C#]            VNS.Templates / schlager, VNS                                                                       4k   
+VNS Web App Pro...  vnswebapp                                       [C#]            VNS.Templates / schlager, VNS                                                                       4k   
+Web api applica...  graphwebapi                                     [C#]            chenxizhang.dotnetcore.msgraph.webapi.CSharp / ares                                                 4k   
+WebAPI.Core         cychg8api                                       [C#]            G8.Webapi.Template / alberth527                                                                     4k   
+WebSPA Drapo        drapo                                           [C#]            spadrapo / thsilva                                                                                  4k   
+WQLWebAPITemplate   wqlwebapi                                       [C#]            WQLWebAPITemplate / wangqianlong                                                                    4k   
+WQLWebAPITemplate   wqlwebapi                                       [C#]            WQLWebAPITemplate / wangqianlong                                                                    4k   
+YWDNetCoreWebApi    YWDNetCoreWebApi                                [C#]            YWDNetCoreWebApi.Template / sukimikuru                                                              4k   
+.NET 8 REST API...  webapi8                                         [C#]            JMI.DotNet8.REST.API.Template.CSharp / jonmikeli                                                    3k   
+.NET Core Web API   WAPI                                            [C#]            VBorisof.NetCoreApiTemplate / VBorisof                                                              3k   
+[MDP] Web應用程式   MDP.WebApp                                      [C#]            MDP.WebApp / clark159                                                                               3k   
+able web site app   srkn                                            [C#]            templatepack.ableTemplateApp / eburafi                                                              3k   
+ASP.NET Core Az...  azurewebapp                                     [C#]            AspNetCoreAzureTemplates / Odonno                                                                   3k   
+ASP.NET Core We...  web-api-mateus                                  [C#]            Mateus.Tech.Templates / mateusdemorais                                                              3k   
+ASP.NET Core We...  microservice                                    [C#]            CoreX.Microservices.Templates / Bishoymly                                                           3k   
+ASP.NET Core We...  webapivb                                        VB              Moonmile.WebapiTemplate.VB / moonmile                                                               3k   
+ASP.NET Core We...  restapi                                         [C#]            Ycode.RestApi / y-code                                                                              3k   
+ASP.NET Core We...  webapi-clean                                    [C#]            Pyrox.Templates.AspNetCore / pyrox18                                                                3k   
+ASP.NET Core We...  ruovea-omi-web                                  [C#]            RuoVea.Omi.Web.Template / ruovea                                                                    3k   
+ASP.NET Core wi...  dotnettsreactredux                              [C#]            Arragro.Dotnet.TS.React.Redux.Project.Template / arragro.com                                        3k   
+ASP.NET Server ...  synWebControlLib                                Synergy DBL     Synergex.Projects.Templates / Synergex                                                              3k   
+Atos: AtosWebAPI    atoswebapi                                      [C#]            Template.Atos.WebApi / atosnuget                                                                    3k   
+BCX API Template    bcxwebapi                                       [C#]            bcxwebapi / BradleyHenderson                                                                        3k   
+Centeva ASP.NET...  centeva-webapi                                  [C#]            Centeva.Templates / Centeva                                                               ✓         3k   
+Clean Architect...  clean-architecture-blazored                     [C#]            CleanArchitecture.Blazored / ubhaya.hettiarachchi                                                   3k   
+Clean Architect...  clean-architecture-mudblazored                  [C#]            CleanArchitecture.Blazored / ubhaya.hettiarachchi                                                   3k   
+Clean Architect...  rxwebapi                                        [C#]            clean.architecture.aspnetcore / ajayojha                                                            3k   
+Clean Architect...  webapi-ca                                       [C#]            Clean.Architecture.Project.Template.nuspec / eErsultan                                              3k   
+Core.WEBAPI.Tem...  WEBAPICore                                      [C#]            ijlynivfhp.Core.Template.HGD / 342651153                                                            3k   
+Core.Webapi.Tem...  lwc.core                                        [C#]            Webapi.Core.Template.LWC / lwc                                                                      3k   
+Dapasoft OneUI ...  OneUI                                           [C#]            Dapasoft.OneUI / fyhelloworld                                                                       3k   
+dotnet core web...  webapi-rabbitmq                                 [C#]            db.webapi.rabbit.mq.Template.CSharp / vyckou                                                        3k   
+DotNet template...  DotNetWhiteApp                                  [C#]            DotNetWhiteApp.Utility.Templates / AgilanVageesan                                                   3k   
+et b2b web api ...  et.b2b.Api                                      [C#]            ethiopian.b2b.web.api.template / AleazarYilma                                                       3k   
+GPSingh RSI Tem...  gpsinghapi                                      [C#]            gpsingh.rsi.api.01 / gpsingh                                                                        3k   
+Hello.Demo.WebApp2  fkadmin-web                                     [C#]            Hello.Demo.WebApp2.Template / helihui                                                               3k   
+isRock.Web.Core...  PageMethodExampleCRUD                           [C#]            isRock.Web.Core.Razor.ExampleCRUD / twdeveloper                                                     3k   
+JandaBox ASP.NE...  webapibox                                       [C#]            JandaBox / Jandini                                                                                  3k   
+JandaBox ASP.NE...  webapiprj                                       [C#]            JandaBox / Jandini                                                                                  3k   
+Jetydu.WebAPI       jetyduWebAPI                                    [C#]            Jetydu.Webapi.Template / Jetydueeee232                                                              3k   
+Jetydu.WebAPI       jetyduWebAPI                                    [C#]            Jetydu.Webapi.Template / Jetydueeee232                                                              3k   
+K5u - Web Api f...  K5u.Api                                         [C#]            K5u.Templates / khanh                                                                               3k   
+Kirans Projects...  kiranswebapi                                    [C#]            KiransProjects.ProjectTemplates / kiran94                                                           3k   
+Kirov WebAPI        kirov-webapi                                    [C#]            kirov-webapi-test / hamster                                                                         3k   
+Liquid entity c...  liquidwebapiaddentity                           [C#]            Liquid.Templates / liquid.application.framework, lucianareginalino                                  3k   
+Liquid WebAPI C...  liquidcrudsolution                              [C#]            Liquid.Templates / liquid.application.framework, lucianareginalino                                  3k   
+Liquid WebAPI p...  liquidwebapiproject                             [C#]            Liquid.Templates / liquid.application.framework, lucianareginalino                                  3k   
+Liquid WebAPI s...  liquidwebapisolution                            [C#]            Liquid.Templates / liquid.application.framework, lucianareginalino                                  3k   
+Mosi.Micro.Sing...  mosimicroswa                                    [C#]            Mosi.Micro.SingleWebAPI / ericpeng                                                                  3k   
+MVS web Applica...  mvs                                                             MVS.Template.CSharp / mvsouza                                                                       3k   
+MVS web Applica...  mvs                                                             MVS.Template.CSharp / mvsouza                                                                       3k   
+My Template.WebApi  mywebapi1                                       [C#]            Kakaluote.Template.WebApi / kakaluote                                                               3k   
+NET 5 WebApi        mtr-api                                         [C#]            MyTechRamblings.Templates / carlos.pons                                                             3k   
+NET5.Webapi.Tem...  furionapi                                       [C#]            NET5.Webapi.Template.Furion / hu53135580                                                            3k   
+NJ Web Api          njwebapi                                                        NJ.Templates / nelsonjr                                                                             3k   
+RingWebAPI          RingWebAPI                                      [C#]            RingWebAPI / axzxs2001                                                                              3k   
+Rocket Surgery ...  rocketweb                                                       Rocket.Surgery.Templates / RocketSurgeonsGuild                                                      3k   
+sayedweb            sayedweb                                        [C#]            SayedHa.Template.NetCoreTool.nuspec / sayedha                                                       3k   
+sayedwebauth        sayedwebauth                                    [C#]            SayedHa.Template.NetCoreTool.nuspec / sayedha                                                       3k   
+Seva's .NET Web...  sb-webapi                                                       VBorisof.NetCoreApiTemplate / VBorisof                                                              3k   
+Standard web st...  dextrolevo.web                                                  DextroLevo.Utility.WebTemplate / darcyio                                                            3k   
+StaticSharp Web...  staticsharp                                     [C#]            StaticSharp.Templates / staticsharp                                                                 3k   
+Strong Web API ...  sweb                                            [C#]            Strong.Abp.Templates / Tobeabetterman                                                               3k   
+Taro Net Web AP...  taronetwebapi                                   [C#]            Taro.Net.Web.Api.Template / cosmin.crisan                                                           3k   
+Turkuvaz WebApi...  turkuvazwebapiproject                           [C#]            Turkuvaz.WebApi.Project.Core8 / turkuvaz                                                            3k   
+URF for .NET Co...  urf-webapi-templates                            [C#]            URF.Core.WebApi.Templates / tonysneed                                                               3k   
+Video Preview W...  myvideopreview                                                  Video.Preview.Templates / JohnChang                                                                 3k   
+Web Api basic w...  basicmysql                                      [C#]            RTP.BasicWebApiMySQL.CSharp / nandhakumargdr                                                        3k   
+Web API Project...  dotnet-api-6                                    [C#]            esa.templates.net / EnterpriseSoftwareArchitect                                                     3k   
+Web application...  graphwebapp                                     [C#]            chenxizhang.dotnetcore.msgraph.webapp.CSharp / ares                                                 3k   
+Web MVC applica...  graphmvcapp                                     [C#]            chenxizhang.dotnetcore.msgraph.mvcapp.CSharp / ares                                                 3k   
+Web template        loktionov129.web                                [C#]            loktionov129.web / loktionov129                                                                     3k   
+Wiz Template - ...  wizapidatadriven                                [C#]            Wiz.Dotnet.Template.API.DataDriven / Wiz                                                            3k   
+Wiz Template Mu...  wizapi-multitenant                              [C#]            Wiz.Dotnet.Template.Multitenant.API / Wiz                                                           3k   
+WQLWebAPITempla...  wqlwebapisql                                    [C#]            WQLWebAPISQLTemplate / wangqianlong                                                                 3k   
+WQLWebAPITempla...  wqlwebapisql                                    [C#]            WQLWebAPISQLTemplate / wangqianlong                                                                 3k   
+WQLWebAPITempla...  wqlwebapimongo                                  [C#]            WebAPIMongodbTemplate / wangqianlong                                                                3k   
+WQLWebAPITempla...  wqlwebapimongo                                  [C#]            WebAPIMongodbTemplate / wangqianlong                                                                3k   
+ZauberCMS Websi...  zaubercms                                       [C#]            ZauberCMS.Template / leen3o                                                                         3k   
+ZStack.Framewor...  zstack-webapi                                   csharp          ZStack.Framework.Templates.WebApi / wwb123123                                                       3k   
+川仪十七厂微服...   sci17web                                        [C#]            SIC17MicroService.Template / tianhaotuo                                                             3k   
+.NET 6 IoT Hub ...  iothubwebapi6                                   [C#]            JMI.DotNet6.IoTHub.REST.API.Template.CSharp / jonmikeli                                             2k   
+.NET 6 REST API...  webapi6                                         [C#]            JMI.DotNet6.REST.API.Template.CSharp / jonmikeli                                                    2k   
+.NET 8 IoT Hub ...  iothubwebapi8                                   [C#]            JMI.DotNet8.IoTHub.REST.API.Template.CSharp / jonmikeli                                             2k   
+.NET Core 3.x I...  iotwebapi3                                      [C#]            JMI.DotNetCore3x.IoTHub.REST.API.Template.CSharp / jonmikeli                                        2k   
+(@Switch) Clean...  sw-webapi-net7                                  [C#]            Switch-Boilerplate-NetCore / SwitchSoftwareSolutions                                                2k   
+AESA Web API        aesa-web-api                                    [C#]            aesa.templates / csandun                                                                            2k   
+ASP.NET Core Cl...  clean-web-api                                   [C#]            Leefrost.Dotnet.Web.Api.ProjectTemplate / Leefrost                                        ✓         2k   
+ASP.NET Core Em...  osf.web                                         [C#]            osf.dotnet.templates / OpenServiceFramework                                                         2k   
+ASP.NET Core Te...  tgwebhook                                       [C#]            Eveloth.TgBot / eveloth                                                                             2k   
+ASP.NET Core We...  webapijwt                                       [C#]            BrandonAlexander.ProjectTemplates.WebApiJwt / brandon-irl                                           2k   
+ASP.NET WAGI Bi...  wagi-bindle                                     [C#]            Deislabs.WAGI.Templates / Deislabs                                                                  2k   
+ASP.NET WAGI We...  wagi                                            [C#]            Deislabs.WAGI.Templates / Deislabs                                                                  2k   
+ASP.NET Web API...  fabricdot-api                                   [C#]            Fabricdot.Dotnet.Template / cyans                                                                   2k   
+ASP.NET Web Min...  fabricdot-miniapi                               [C#]            Fabricdot.Dotnet.Template / cyans                                                                   2k   
+ASP.NET web tem...  ngx-api                                         [C#]            Nginx.Template / afgalvan                                                                           2k   
+Blazor WebAssem...  dxlib-wasm                                      [C#]            Kamenokosoft.BlazorWasm.DxLib.ProjectTemplates / kamenokonokotan                                    2k   
+Boxed templates...  bwa                                             [C#]            Sophon.Boxed.BasicWebApi / bingwangzhao                                                             2k   
+busyfingers Web...  busyfingers.webapi.jwtauth                                      busyfingers.JWTauth.WebAPITemplate / busyfingers                                                    2k   
+Choas WebApi Te...  choaswebapi                                     [C#]            Choas.WebApi.Templates / Seay                                                                       2k   
+Clean Architect...  sss.cleanarchitecture.net7.webapi               [C#]            SSS.CleanArchitecture.Net7.WebApi / success-software-services                                       2k   
+Clean ASP.NET C...  cleanwebapi                                     [C#]            Trackyon.Templates.CleanWebAPI / DarqueWarrior                                                      2k   
+Clean ASP.NET C...  cleanwebapi                                     [C#]            Trackyon.Templates.CleanWebAPI / DarqueWarrior                                                      2k   
+Code Convention...  cc-webapi                                       [C#]            AebSolutions.CodeConvention.SolutionTemplates / bboy77                                              2k   
+CognizantSoftvi...  MaqsWebservice                                  [C#]            CognizantSoftvision.Maqs.Templates / CognizantSoftvision                                            2k   
+Core.Webapi.Tem...  corewebapi                                      [C#]            WebApi.BDMS.Core.Template.HGD / yuzhiwu                                                             2k   
+Custom WebApi       CustomWebApi                                    [C#]            Custom.Template.NetCore.ZW / zhangwei                                                               2k   
+Custom WebApi       CustomWebApi                                    [C#]            Custom.Template.NetCore.ZWT / zhangwei                                                              2k   
+Custom WebApi       CustomWebApi                                    [C#]            Custom.Template.ZW / zhangwei                                                                       2k   
+Custom WebApi       CustomWebApi                                    [C#]            Xiaobao.Ddd.Template.TTTT / zhangwei                                                                2k   
+Domain Driven D...  DDDN-WebApi                                     [C#]            DDDN.WebApi / wonlayhwan_nuget                                                                      2k   
+DooM Template -...  doom-template                                   [C#]            Erick.Pinheiro.Template.Api / erickps8                                                              2k   
+DooM Template M...  doom-mt                                         [C#]            Template.Api.Multi.Tenancy / erickps8                                                               2k   
+Envisia Web Pro...  envisiaweb                                      [C#]            Envisia.DotNet.Templates / envisia                                                                  2k   
+Fairhr.WebApi       Fairhr.WebApi                                   [C#]            Fairhr.WebApi / WangJunZzz                                                                          2k   
+goldpac.web.app...  goldpac.web.app                                                 goldpac.web.app.template.CSharp / sunshine.li                                                       2k   
+Horuss WebAPI B...  horuss-api                                      [C#]            Horuss.WebApi.Boilerplate / fistergutierrez                                                         2k   
+Huasky ASP.NET ...  huaskywebapi                                    [C#]            Huasky.Webapi.Template / xainideyun                                                                 2k   
+iBOS Web Template   iBOSWebTemplate                                 [C#]            IBOSTemplate / eaccount                                                                             2k   
+ITL Web API         itlapi                                          [C#]            ITL.Templ.WebApi / I-Techlabs                                                                       2k   
+JiangyanWebApiTemp  jy_web                                          [C#]            jiangyan33_web / jiangyan33                                                                         2k   
+Kakaluote.WebApi    abpwebapi                                       [C#]            Kakaluote.Abp.WebApi / kakaluote                                                                    2k   
+Legerity UI Tes...  legerity-web                                    [C#]            Legerity.Templates / made-apps                                                                      2k   
+Lingman WebAPI      lingman-webapi                                  [C#]            Lingman.Templates / hamster                                                                         2k   
+ML ApiCloud Web...  ml-api-web                                      [C#]            ML.ApiCloud.Web.Template / MLTechnology                                                             2k   
+NewLife Web         cube                                            [C#]            NewLife.Templates / NewLife                                                                         2k   
+NewLife WebApi      cubeapi                                         [C#]            NewLife.Templates / NewLife                                                                         2k   
+NewLife WebSocket   websocket                                       [C#]            NewLife.Templates / NewLife                                                                         2k   
+NewLife WebView     webview                                         [C#]            NewLife.Templates / NewLife                                                                         2k   
+OpenAuth.Webapi...  openauthtpl                                     [C#]            OpenAuth.Webapi.Template.HY / hanhanyuzhou                                                          2k   
+RapidFire .NET ...  rfweb                                           [C#]            RapidFireTemplates / rbimrose                                                                       2k   
+Robust Systems ...  rs-api                                          [C#]            RobustSystems.Templates / RobustSystems                                                             2k   
+Scratch Web App     scratchweb                                      [C#]            Lechgu.Scratch / lechgu                                                                             2k   
+Sepmyself's Web...  mytpl                                           [C#]            Sepmyself.Webapi.Template / Sepmyself                                                               2k   
+SH.Core WebAPI      shcoretpl                                       [C#]            SH.Core.WebAPI.Template / shenghao0219                                                              2k   
+Smart Web API t...  smart.api                                       [C#]            Smart.WebAPI.Template / zenglei88                                                                   2k   
+Snippington ASP...  snp-asp-webapi                                  [C#]            Snippington.Utility.Templates / snippington                                                         2k   
+Stize Api template  stize.webapi                                                    stize.webapi / Stize                                                                      ✓         2k   
+Telerik Blazor ...  dimodi-blazor                                   [C#]            Dimodi.Telerik.Blazor.Templates / dimodi                                                            2k   
+Telerik Blazor ...  dimodi-blazor-server                            [C#]            Dimodi.Telerik.Blazor.Templates / dimodi                                                            2k   
+Telerik Blazor ...  dimodi-blazor-wasmauto                          [C#]            Dimodi.Telerik.Blazor.Templates / dimodi                                                            2k   
+Telerik Blazor ...  dimodi-blazorwasm-hosted                        [C#]            Dimodi.Telerik.Blazor.Templates / dimodi                                                            2k   
+Telerik Blazor ...  dimodi-blazorwasm                               [C#]            Dimodi.Telerik.Blazor.Templates / dimodi                                                            2k   
+vertica.webapi      vertica.webapi                                  [C#]            Vertica.Templates / jhp                                                                             2k   
+Web Api Boilerp...  fpwebapi                                                        FpSoftware.WebApiTemplate / fpellerin                                                               2k   
+Web API with cl...  clean-web-api                                   [C#]            CleanApiTemplate.WebApi.CSharp.Templates / Leefrost                                                 2k   
+Web Application...  clavis.web.app                                  [C#]            Cl.Templates.Web.App / eaguilar                                                                     2k   
+WebAPI Project      myapi                                           [C#]            Qiqigou.WebAPI.Template / qiqigou                                                                   2k   
+Xerris Web API ...  xerris-webapi                                   [C#]            Xerris.Templates / Xerris                                                                           2k   
+Ynzp Furion Mvc...  ynzpmvcapifur                                   [C#]            Ynzp.Template.MvcWebApi.Furion / yus1977                                                            2k   
+YWDNetCoreWebApi    YWDNetCoreWebApi                                [C#]            YWDNetCoreWebApi / sukimikuru                                                                       2k   
+YYH.Core.Webapi...  yyhcorewebapi                                   [C#]            YYH.Webapi.Core.Template / yeyinhai                                                                 2k   
+.NET 6 Web Api ...  nitro.webapi.clean                              [C#]            Nitro.DotNet.Templates / luizaraujo.dev                                                             1k   
+.NET 7 IoT Hub ...  iothubwebapi7                                   [C#]            JMI.DotNet7.IoTHub.REST.API.Template.CSharp / jonmikeli                                             1k   
+.NET 7 REST API...  webapi7                                         [C#]            JMI.DotNet7.REST.API.Template.CSharp / jonmikeli                                                    1k   
+.NET Web API So...  netwebapi                                       [C#]            Net.WebApi.Template / marlonajgayle                                                                 1k   
+.NET Web Service    webservice                                      [C#]            mikd1.service.template / mikd1                                                                      1k   
+(@Switch) Clean...  sw-webapi                                       [C#]            Switch-Boilerplate-Template-NetCore / aackermann-sw                                                 1k   
+A2SEVEN Web API     a2seven_web_api                                 [C#]            A2SEVEN.WebAPI / ekutsov                                                                            1k   
+Agustin Ackerma...  sw-webapi                                       [C#]            Custom-WebApi-Template / aackermann                                                                 1k   
+Andafa Web API      AndafaApi                                       [C#]            Andafa.Web.Template / xinjing3836                                                                   1k   
+API For MongoDB...  cosmosmongo-webapi                              [C#]            Microsoft.Azure.Cosmos.Templates / azure-sdk, Microsoft                                   ✓         1k   
+Aquarius Abp vN...  abpwebapi                                       [C#]            Aquarius.Template.AbpvNextWebApi / zhangxiangcheng                                                  1k   
+Asp.Net (WebApi...  aspreact                                        [C#]            Asp.React.Project.Templates / Neisvestney                                                           1k   
+ASP.NET Core Basic  basicweb                                        [C#]            KMHMET.Addon.Templates / kmh_met_edu                                                                1k   
+ASP.NET Core Vo...  voltpl                                          [C#]            Abner.Vol.Templates / Abner-Whj                                                                     1k   
+ASP.NET Core We...  ruovea-app                                      [C#]            RuoVea.OmiApp.Template / ruovea                                                                     1k   
+ASP.NET Modular...  modular-monolith-api                            [C#]            MODULAR-MONOLITH-TEMPLATE / Sinkarq                                                                 1k   
+ASP.NET WEB API...  aspnet-core-web-api-cqrs                        [C#]            WEB-API-CQRS-TEMPLATE / Sinkarq                                                                     1k   
+ASPSecurityKit ...  askapi                                          [C#]            ASPSecurityKit.Templates / KhoslaTech                                                               1k   
+ASPSecurityKit ...  askmvc                                          [C#]            ASPSecurityKit.Templates / KhoslaTech                                                               1k   
+ASPSecurityKit ...  askss                                           [C#]            ASPSecurityKit.Templates / KhoslaTech                                                               1k   
+Bit BlazorWebAs...  bit-csb                                         [C#]            Bit.BlazorWebAssembly / bit-foundation                                                              1k   
+Blazor Static W...  blazorswa                                       [C#]            BlazorSwa.Template / albx                                                                           1k   
+Blazor WebAssem...  tailblazor-wasm                                 [C#]            McNerdius.TailBlazorTemplates / mcnerdius                                                           1k   
+Blog do FT - We...  bftWebApi                                       [C#]            BlogDoFT.Template.NetCoreTool.nuspec / ftathiago                                                    1k   
+Clean Architect...  cleanarch-blazorwebapp                          [C#]            CleanArch.Templates / netcodr                                                                       1k   
+Clean Architect...  cleanarch-webapi                                [C#]            CleanArch.Templates / netcodr                                                                       1k   
+Clean Architect...  cat-api                                         [C#]            AI.CleanArchitectureTemplate.Solution / enigma34                                                    1k   
+Clean Architect...  sss.cleanarchitecture.net6.webapi               [C#]            SSS.CleanArchitecture.Net6.WebApi / success-software-services                                       1k   
+Clean WebAPI        cleanwebapi                                     [C#]            H3rm.CA.Templates / H3rm                                                                            1k   
+CleanArchitectu...  CleanArchitectureNetCoreWebAPI                  [C#]            Hack3rlife.ASP.NETCore.WebAPI / hack3rlife                                                          1k   
+Core3.1.Webapi....  corewebapi2.1                                   [C#]            Core3.1.Webapi.Template.wadenian / wadenian5                                                        1k   
+DDD-Architectur...  ddd-web-api                                     [C#]            DDD-Architecture-Web-API / chouguleLalit                                                            1k   
+Deviser Platfor...  deviserweb                                      [C#]            Deviser.Templates / Deviser                                                                         1k   
+Digital Skynet ...  dsapiboilerplate                                [C#]            DigitalSkynet.Boilerplate / DigitalSkynet                                                           1k   
+EF Example temp...  efSampleDotnetFrameworkWebAPI                   [C#]            EFSample.Utility.Templates / fer_edward                                                             1k   
+Empty Web Conte...  EmptyWebContentProject                          [C#]            EmptyWebContentProject.Template / rstrahl                                                           1k   
+ESFA Digital Ap...  das-web                                         [C#]            SFA.DAS.Utility.Templates / sfanuget                                                                1k   
+herokuweb           herokuweb                                       [C#]            Oleksii.Template.HerokuWeb / oleksii.mykhniak                                                       1k   
+iQuery .Net C# ...  iq.webapi                                       [C#]            iQuery.Templates / iquery                                                                           1k   
+Keycloak WebApi     keycloak-webapi                                 [C#]            Keycloak.AuthServices.Templates / NikiforovAll                                            ✓         1k   
+kije.template.w...  kije.template.webapi                            [C#]            kije.template.webapi / adnan.z                                                                      1k   
+LineBotWebAPI       linebotapi                                      [C#]            LineBotWebAPI / wupolung                                                                            1k   
+LineBotWebApiDemo   linebotdemo                                     [C#]            LineBotWebApiDemo / wupolung                                                                        1k   
+MinimalEndpoint...  minimalendpoints                                [C#]            minimalendpointsTemplate / NyronW                                                                   1k   
+MoonCore Templa...  mcwebapp                                        [C#]            MoonCore.Templates / Marcel-Baumgartner                                                             1k   
+MoYu Blazor Wit...  moyublazorapi                                   [C#]            MoYu.Template.BlazorWithWebApi / hu53135580                                                         1k   
+MoYu Blazor Wit...  fsblazorapi                                     [C#]            MoYu.SqlSugar.Template.BlazorWithWebApi / hu53135580                                                1k   
+MoYu Razor With...  moyurazorapi                                    [C#]            MoYu.Template.RazorWithWebApi / hu53135580                                                          1k   
+MoYu Razor With...  fsrazorapi                                      [C#]            MoYu.SqlSugar.Template.RazorWithWebApi / hu53135580                                                 1k   
+NetCoreWebApp       NetCoreWebApp                                   [C#]            FZYNETCOREWEBAPP / FaWaiKuangTu                                                                     1k   
+Node applicatio...  blazornode                                      [C#]            Blazor.Node.Template / mingyaulee                                                                   1k   
+OpenVision.Web      OpenVision.Web                                  [C#]            OpenVision.Web.Template / chrisga                                                                   1k   
+QingShan Template   qswebapi                                        [C#]            QingShan.Template.NetCore / qa1227201343                                                            1k   
+RichillCapital ...  web-nuxt                                        TypeScript,Vue  RichillCapital.Templates / msat7201                                                                 1k   
+Silmoon.AspNetC...  ffweb                                           [C#]            Silmoon.Templates / silmoon                                                               ✓         1k   
+SimWeb Dotnet       SimWeb                                          [C#]            SimWeb.Template / MSSQLConnect                                                                      1k   
+That is my firs...  webapiTemp                                                      RezaSampleTemplate / tarzan88                                                                       1k   
+That is my firs...  webapiTemp                                                      RezaSampleTemplate / tarzan88                                                                       1k   
+That is my firs...  webapiTemp                                                      RezaSampleTemplate / tarzan88                                                                       1k   
+That is my firs...  webapiTemp                                                      RezaSampleTemplate / tarzan88                                                                       1k   
+Web Api EntityF...  webapi-ef                                       [C#]            Keenjus.Templates / ptfr                                                                            1k   
+Web API Project...  webapivb                                        VB              Moonmile.WebApiProject.VisualBasic / moonmile                                                       1k   
+Web 应用 - 解决...  elf.solution.web                                [C#]            XiaoFeng.Templates / jackyli                                                                        1k   
+Web 应用 - 项目     elf.project.web                                 [C#]            XiaoFeng.Templates / jackyli                                                                        1k   
+WebApi ThreeLay...  webapi-3layer                                   [C#]            deverqqqq.Templates / deverqqqq                                                                     1k   
+WebGL WebAssemb...  webgl                                           [C#]            ThoughtStuff.WebGLTemplate / jfoshee                                                                1k   
+Wep API Service     webapiser                                       [C#]            WebAPI.Service.Template / kawsar.sbc                                                                1k   
+Xonium Web App      xt                                              [C#]            XoniumTemplate / xonium                                                                             1k   
+XPNTEK Web API      xpntekwebapi                                    [C#]            xpntek.webapi / xpntek                                                                              1k   
+Шаблон сервиса ...  dcs-service                                     [C#]            DCS.Templates.DotNET / NikoDev                                                                      1k   
+.NET 7 REST API...  webapidb7                                       [C#]            JMI.DotNet7.REST.API.DB.Template.CSharp / jonmikeli                                                <1k   
+.NET 8 Azure St...  azswebapi8                                      [C#]            JMI.DotNet8.AzureStorage.REST.API.Template.CSharp / jonmikeli                                      <1k   
+.NET 9 IoT Hub ...  iothubwebapi9                                   [C#]            JMI.DotNet9.IoTHub.REST.API.Template.CSharp / jonmikeli                                            <1k   
+.NET 9 REST API...  webapidb9                                       [C#]            JMI.DotNet9.REST.API.DB.Template.CSharp / jonmikeli                                                <1k   
+.NET 9 REST API...  webapi9                                         [C#]            JMI.DotNet9.REST.API.Template.CSharp / jonmikeli                                                   <1k   
+.net Core Web A...  Clean Web API                                   [C#]            CleanArchitecture.CQRS.WebAPI / silverspoon                                                        <1k   
+.NET5 Microserv...  exodus-templates-microservice-webapi            [C#]            Exodus.Templates.Microservices.WebApi / erick.gonzalezs                                            <1k   
+.NET8 Web API T...  WebApi                                          [C#]            WebApi.Core.Template / Victor.huang                                                                <1k   
+Aardvark Blazor...  aardvarkblazor                                  F#              Aardvark.Blazor.Templates / krauthaufen                                                            <1k   
+AkliaJob.Core       AkliaJobWebAPI                                  [C#]            AkliaJob.Core.WebAPI / lijianbiao                                                                  <1k   
+Architech WebAP...  architech-web-api                               [C#]            Architech.WebAPI.Boilerplate / madara89                                                            <1k   
+Asp net Core We...  webapiddd                                       [C#]            Witt.AspNetCoreWebApiDDD.CSharp / anderson161190                                                   <1k   
+ASP.NET Core We...  dwt                                             [C#]            Ddth.Templates.WebApi / btnguyen2k                                                                 <1k   
+ASP.NET Core We...  cleanwebapp,cleanrazor                          [C#]            Boyles.CleanAspNetCore.Template / BSoftware                                                        <1k   
+ASP.NET Core We...  cb-webapp,cb-razor                              [C#]            Codebelt.Template.WebApp.Razor / codebelt                                                          <1k   
+ASP.NET Core wi...  web-extended                                    [C#]            MintPlayer.Dotnet.Templates / MintPlayer                                                           <1k   
+ASP.NET OData C...  odata-webapi                                    [C#]            Microsoft.OData.WebApiTemplate / Microsoft, OData                                         ✓        <1k   
+Beis.WebApplica...  Beis.WebApp                                     [C#]            Beis.WebApplication / BEIS-Digital-Services                                                        <1k   
+BICT WebAPI         bict                                            [C#]            BICT.WebAPI.Boilerplate / DerryYeb                                                                 <1k   
+Blazor Microfro...  blazormfe-wasm-empty                            [C#]            BlazorMicrofrontends.Templates / kevinsamuel                                                       <1k   
+Blazor Microfro...  blazormfe-wasm-empty                            [C#]            InterBlaze.Templates / kevinsamuel                                                                 <1k   
+Blazor Web App ...  blazorweb-ms-auth                               [C#]            AKSoftware.Blazor.Templates / aksoftware98                                                         <1k   
+Blog Web API        blogwebapi                                      [C#]            Blog.WebApi.Template / houzhenhuang                                                                <1k   
+Born Interactiv...  BIWebbApi                                       [C#]            BI.AspNetCore.WebApi.Template / magha.borninteractive                                              <1k   
+Cai Web App Pro...  cai.webapp                                      [C#]            cai.templates / kwame                                                                              <1k   
+Clavis Solution...  cl.solution.web.app                             [C#]            Cl.Solution.Web.App / eaguilar                                                                     <1k   
+Clean Architect...  CleanArcTemplate                                [C#]            CleanArcTemplate / RandiHesh                                                                       <1k   
+Clean Architect...  cleanarch-api                                   [C#]            MK.CleanArchitecture.Template / MuhammadKamran                                                     <1k   
+Clean Architect...  cleanarch                                       [C#]            tikvadev.CleanArchitecture.Template / tikvadev                                                     <1k   
+Clean Architect...  FG.Clean                                        [C#]            FG.CleanArchitecture / fahrigedik                                                                  <1k   
+CmlabsWeb           cw                                              [C#]            Cmlabs.Web / ice_dragon                                                                            <1k   
+Codehard Templa...  chblazoraspire                                  [C#]            Codehard.Templates.BlazorAspire / CodehardTH                                                       <1k   
+Core.Webapi.Tem...  corewebapi                                      [C#]            MyWebApi.template.HGD / menglingkun                                                                <1k   
+Core.Webapi.Tem...  initXcApi                                       [C#]            Webapi.Core.Template.ZHL / zhanghl                                                                 <1k   
+Core.Webapi.Tem...  corewebapi                                      [C#]            WhcTestWebapi.Core.Template.HGD / whchongcai                                                       <1k   
+Custom ASP.NET ...  customwebapi                                    [C#]            CustomWebApi.template / devesh.bhavna                                                              <1k   
+Custom Web App      MyCustomApp                                     [C#]            IvyCustom.Utility.Templates / DivyaYandra                                                          <1k   
+DDD Web API tem...  ri-web-api                                      [C#]            RI-WebAPI / chouguleLalit                                                                          <1k   
+Domain-Driven D...  ddd-api                                         [C#]            SISS.Templates / SuxrobGM                                                                          <1k   
+DotNet core web...  smxauthsimple                                   [c#]            Smx27.DotNetCore.SmxAuthSimple / smx27                                                             <1k   
+Ease Web App        ease                                            [C#]            Ease.Templates / mnbuhl                                                                            <1k   
+Empty Cai Project   cai.webapi                                      [C#]            cai.templates / kwame                                                                              <1k   
+Empty WebApi        odinewa                                         [C#]            Odin.Empty.Webapi.Template / dinjonya                                                              <1k   
+Eternet Service...  eternet-sf-webapi                               [C#]            Eternet.ServiceFabric.WebApi.Template / Eternet                                           ✓        <1k   
+FKSharp.AdminSy...  fkadmin-web                                     [C#]            FKAdmin.WebApp.Template / helihui                                                                  <1k   
+Forum Core Web ...  ForumCore.Web.Template                          [C#]            ForumTemplates.ForumCore.Web / ForumOwner                                                          <1k   
+FusionAuth ASP....  fusionauthwebapi                                [C#]            FusionAuth.Templates / FusionAuth                                                                  <1k   
+FusionAuth ASP....  fusionauthmvcwebapp                             [C#]            FusionAuth.Templates / FusionAuth                                                                  <1k   
+Giraffe Web API     giraffe-webapi                                  F#              GiraffeExt.Templates / anthony.m                                                                   <1k   
+GiraffeWebApp       giraffewebapp                                   F#              GiraffeWebApp.Templates / morganwkenyon                                                            <1k   
+Gmod.NET Web Mo...  gmodnet-module-web                              [C#]            GmodNET.Templates / GmodNET                                                                        <1k   
+GreatIdeas Web ...  greatideas-webapi                               [C#]            GreatIdeas.Projects.Templates / greatideas                                                         <1k   
+GuolingBackEnd....  GL                                              [C#]            GuoLing.Webapi.Template / HYM                                                                      <1k   
+Hcf WebApi          hcfwebapi                                       [C#]            HcfNet.Template.WebApi / Lemon                                                                     <1k   
+herokuweb           herokuweb                                       [C#]            Oleksii.Template.HerokuNet5Web.nuspec / oleksii.mykhniak                                           <1k   
+ijlynivfhp.Core...  WEBService                                      [C#]            ijlynivfhp.Core.WEBService.Template.HGD / 342651153                                                <1k   
+ijlynivfhp.WEBS...  WEBService                                      [C#]            ijlynivfhp.WEBService.Template.HGD / 342651153                                                     <1k   
+ITOP_WEBSERVICE     ITOP_WEBSERVICE                                 [C#]            Itop.Templates.WebService / Itop                                                                   <1k   
+Java NC65_WebSe...  ml-nc65-ws                                      Java            ML.Java.NC65_WebService.Template / MLTechnology                                                    <1k   
+JGUZDV Blazor W...  jguzdv-blazor                                   [C#]            JGUZDV.Templates / jguzdv                                                                          <1k   
+Jt SingleServic...  jt-single                                       [C#]            Jt.SingleService.Template / Joont                                                                  <1k   
+JWT Identity We...  identityjwt                                     [C#]            IdentitySetupWithJwt / ashar.dev                                                                   <1k   
+JYORM               jy_web_api                                      [C#]            WebApi.JY / jiangyan33                                                                             <1k   
+Kite.AbpTemplat...  kite.abp                                        [C#]            Kite.AbpTemplate.WebApi / yupingyong                                                               <1k   
+Magic Onion Gen...  magic-onion-generic-webAssembly                 [C#]            MagicOnionGenericWebAssemblyTemplate / Licentia                                                    <1k   
+MrB0nj Web appl...  mb-web                                          [C#]            MrB0nj.Web / mrb0nj                                                                                <1k   
+MyFurion WebAPI     mftpl                                           [C#]            ShuaiWuFurion.Webapi.Template / JInShuaiWu                                                         <1k   
+Mysoft WebApi2 ...  owin-webapi                                     [C#]            Mysoft.WebApi2.Owin / mysoft.net.core                                                              <1k   
+NET 5 Web Template  net5web                                         [C#]            Net5WebTemplate / marlonajgayle                                                                    <1k   
+NET 6 Web API T...  net6webapi                                      [C#]            Net6WebTemplate / marlonajgayle                                                                    <1k   
+NetCore8.0 weba...  odinwebapi                                      [C#]            OdinSam.Template / dinjonya                                                                        <1k   
+NetCore8.0 weba...  odinwebapi                                      [C#]            OdinSam.Template / dinjonya                                                                        <1k   
+NSOFF.WebTemplate   NWF                                             [C#]            NSOFF.WEB.Framework.Template / nsoff                                                               <1k   
+NuGet.Test Dotnet   NuGetFirstWeb                                   [C#]            YYZ.NuGet.Test.Template / yuyanzhao                                                                <1k   
+OData Web API       odatawebapi                                     [C#]            MudraX.ODataWebAPI.Templates / AnthonyLu0826                                                       <1k   
+OpenAuth.Webapi...  openauthwebapi                                  [C#]            OpenAuth.Webapi.Template.haohanyuzhou / hanhanyuzhou                                               <1k   
+OpenMAQS webser...  OpenMaqsWebservice                              [C#]            OpenMAQS.Maqs.Templates / OpenMAQS                                                                 <1k   
+paas.demo.webapi    paas.demo.webapi                                [C#]            paas.demo.webapi / dconglei                                                                        <1k   
+Paracord Web API    paracord-api                                    [C#]            Paracord.Templates / maxtrier                                                                      <1k   
+PiWeb-Import-Sd...  piweb-import-plugin                             [C#]            Zeiss.PiWeb.Sdk.Import.ProjectTemplates / Zeiss_IZFM                                      ✓        <1k   
+Quick WebApi        sqlsugarquickapi                                [C#]            SqlsugarCodefirst.Template / AnMingzhe                                                             <1k   
+RamBase Webhook...  rbwebhook                                       [C#]            RamBase.Templates / RamBase                                                                        <1k   
+Rust WebAssembl...  rust.msbuild.task                               Rust            MSBuildWasm.Templates / JanPro                                                                     <1k   
+Scarecrow - ASP...  scarecrow-webapi                                [C#]            Scarecrow.WebApi.Template / muhirwanto.dev                                                         <1k   
+Shiitake Templa...  clean.web                                       [C#]            Shiitake.Templates / clapis                                                                        <1k   
+Skelly .NET WebApi  skelly-dotnet-webapi                            [C#]            Skelly.WebApi / gaberabreu                                                                         <1k   
+Swytch Web Appl...  swytch-web                                      [C#]            Swytch.Template.Pack / Gwali                                                                       <1k   
+TalMoDa Custom ...  TalDayanCustomTemplate                          [C#]            TalMoDa.Custom.Template / TalMoDa                                                                  <1k   
+templateproject...  tenda.prject.templateproject                    [C#]            tenda.prject.templateproject / farid19                                                             <1k   
+templateproject...  templateproject                                 [C#]            tendas.prject.templateproject1 / farid19                                                           <1k   
+TemplateWebApi      template-web-api                                [C#]            TemplateWebApi / gdetra                                                                            <1k   
+That is my firs...  webapiTemp                                                      RezaDotNetWebApi / tarzan88                                                                        <1k   
+The net 8 DDD C...  cleandddwebapi                                  [C#]            DDD.Clean.Attritecture.Template / vule0310                                                         <1k   
+TsT.Template.We...  tpl                                             [C#]            TsT.Template.WebApi / TsT                                                                          <1k   
+Turkuvaz WebApi...  turkuvazwebapiproject                           [C#]            Turkuvaz.WebApi.Project.Core9 / turkuvaz                                                           <1k   
+Unicorn Web mod...  unicorn-web                                     [C#]            Unicorn.Taf.Templates / dobriyanchik                                                               <1k   
+Unicorn Web page    unicorn-web-page                                [C#]            Unicorn.Taf.Templates / dobriyanchik                                                               <1k   
+Unicorn Web use...  unicorn-web-control                             [C#]            Unicorn.Taf.Templates / dobriyanchik                                                               <1k   
+VFES WebPlugin      webplugin                                       [C#]            VFES.WEB.EXTEND.TT / ZhangYM                                                                       <1k   
+Vuta Clean Arch...  vtacleanwebapi                                  [C#]            VTA.Template / vuta1927                                                                            <1k   
+Web API Extende...  xtwebapi                                        [C#]            WebApiExtendedTemplate / DaveVentura                                                               <1k   
+Web Api Template    web_api_tmpl                                    [C#]            Web.Template / Akshay_Dhola                                                                        <1k   
+Web Application...  clavis.web.app                                  [C#]            Cl.Templates.Web.Api / eaguilar                                                                    <1k   
+Web Application...  clavis-web-app-project                          [C#]            clavis.templates.web-api / eaguilar                                                                <1k   
+WebApi (Harsh M...  hm.webapi                                       [C#]            HarshMatharu.Templates / harshmatharu                                                              <1k   
+WebAPI Template     webapi                                          [C#]            WebAPI.Template.InfomedBenner / Greenomac                                                          <1k   
+WebAPI with a c...  webapiclean-net5                                [C#]            WebApiClean.Template.Solution.net5 / reddestroer                                                   <1k   
+Webapi with ste...  webapi-stencil-starter                          [C#]            Eraware.StencilWebApiTemplate / eraware                                                            <1k   
+WebApiDemo Dotnet   Wbad                                            [C#]            WebApiDemo.Template / VictorLiXiang                                                                <1k   
+WebApiSkeleton      webapiskeleton                                  [C#]            WebApiSkeleton / WingiM                                                                            <1k   
+WebAssembly Bro...  wasmbrowser                                     [C#]            Microsoft.NET.Runtime.WebAssembly.Templates.net10 / dotnetframework, Microsoft            ✓        <1k   
+WebAssembly Con...  wasmconsole                                     [C#]            Microsoft.NET.Runtime.WebAssembly.Templates.net10 / dotnetframework, Microsoft            ✓        <1k   
+Wei WebApi Temp...  weiapi                                          [C#]            Wei.Template.Api / ZhaoWei                                                                         <1k   
+Yangtt WebApi       YangttWebApi                                    [C#]            Yangtt.Template.NetCore / yangtt                                                                   <1k   
+Youxiang WebApi...  yxapi                                           [C#]            Youxiang.Template.Api / ZhaoWei                                                                    <1k   
+YPF.WebApiTempl...  YpfWebApi                                       [C#]            YPF.WebApiTemplate.V6 / penfei.yang                                                                <1k   
+YY.Webapi.Template  yywebapi                                        [C#]            YY.Webapi.Template / Hvai                                                                          <1k   
+ycws.Webapi.Tem...  corewebapi                                      [C#]            Wonsen.Admin.WebApi / HouLaiYanYu                                                                        
+
+
+To use the template, run the following command to install the package:
+   dotnet new install [<package>...]
+Example:
+   dotnet new install Microsoft.NET.Runtime.WebAssembly.Templates

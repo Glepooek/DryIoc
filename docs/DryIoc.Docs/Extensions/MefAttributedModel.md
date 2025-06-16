@@ -92,11 +92,12 @@ using NUnit.Framework;
 ```cs 
 public class Basic_example
 {
-    [Test] public void Example()
+    [Test]
+    public void Example()
     {
         // instructs to use the Import for DI when they found but it is not needed to use the Export
-        var container = new Container().WithMefAttributedModel(); 
-            
+        var container = new Container().WithMefAttributedModel();
+
         // registers exported types
         container.RegisterExports(typeof(Foo), typeof(Bar));
         // or via assemblies
@@ -107,16 +108,16 @@ public class Basic_example
         Assert.IsNotNull(foo);
     }
 
-    public interface IFoo {}
+    public interface IFoo { }
 
     [Export(typeof(IFoo))]
-    public class Foo : IFoo 
+    public class Foo : IFoo
     {
-        public Foo([Import("some-key")]Bar bar) {}
+        public Foo([Import("some-key")] Bar bar) { }
     }
 
     [Export("some-key")]
-    public class Bar {}
+    public class Bar { }
 }
 ```
 
@@ -147,10 +148,11 @@ Or other way around: you don't need to put `Export` attributes everyware to make
 ``` 
 public class Export_and_Import_used_separately
 {
-    [Test] public void Example()
+    [Test]
+    public void Example()
     {
-        var container = new Container().WithMefAttributedModel(); 
-        
+        var container = new Container().WithMefAttributedModel();
+
         container.Register<IFoo, Foo>(Reuse.Singleton);
         container.Register<Bar>(Reuse.Singleton, serviceKey: "some-key");
 
@@ -159,14 +161,14 @@ public class Export_and_Import_used_separately
     }
 
     // The types are without Exports
-    public interface IFoo {}
+    public interface IFoo { }
 
-    public class Foo : IFoo 
+    public class Foo : IFoo
     {
-        public Foo([Import("some-key")]Bar bar) {}
+        public Foo([Import("some-key")] Bar bar) { }
     }
 
-    public class Bar {}
+    public class Bar { }
 }
 ```
 
@@ -208,7 +210,8 @@ Allows to specify service type and service key, aka `ContractType` and `Contract
 ```cs
 public class Export_example
 {
-    [Test] public void Example()
+    [Test]
+    public void Example()
     {
         // Using `WithMefAttributedModel` applies the MEF rules where the default reuse is singleton
         var container = new Container().WithMefAttributedModel();
@@ -221,22 +224,22 @@ public class Export_example
             typeof(C)
         );
 
-        Assert.AreSame(container.Resolve<I>(), container.Resolve<J>()); 
+        Assert.AreSame(container.Resolve<I>(), container.Resolve<J>());
     }
 
-    public interface I {}
-    public interface J {}
+    public interface I { }
+    public interface J { }
 
     [Export] // exports implementation A as service A
-    public class A {}
+    public class A { }
 
     [Export(typeof(I))] // exports I and J to share the same implementation B, so that
     [Export(typeof(J))] // resolving I and J will return the same singleton object B
     [Export("xyz")]     // exports B with the service key "xyz", which also returns the same B
-    public class B : I, J {}
+    public class B : I, J { }
 
     [Export("abc", typeof(I))] // exports С as a service I with the service key "abc"
-    public class C : I {}
+    public class C : I { }
 
 }
 ```
@@ -250,10 +253,11 @@ Allows to mark interface or base type as a service type once, and consider all t
 ```cs
 public class Using_InheritedExport
 {
-    [Test] public void Example()
+    [Test]
+    public void Example()
     {
         var container = new Container();
-        
+
         container.RegisterExports(typeof(A), typeof(B));
 
         Assert.IsNotNull(container.Resolve<I>());
@@ -261,16 +265,16 @@ public class Using_InheritedExport
     }
 
     [InheritedExport]
-    public interface I {}
+    public interface I { }
 
     [InheritedExport("xyz")]
-    public interface J {}
+    public interface J { }
 
     // exported as a service I
-    class A : I {}
+    class A : I { }
 
     // exported as a service J with the service key "xyz"
-    class B : J {}
+    class B : J { }
 }
 
 ```
@@ -290,23 +294,23 @@ For example to ensure the _register-once_ semantics you can export type with the
 ```cs
 class DryIocAttributes_ExportEx
 {
-    [ExportEx(typeof(IService), IfAlreadyExported=IfAlreadyExported.Keep)]
-    public class InOneFile : IService {} 
+    [ExportEx(typeof(IService), IfAlreadyExported = IfAlreadyExported.Keep)]
+    public class InOneFile : IService { }
 
-    [ExportEx(typeof(IService), IfAlreadyExported=IfAlreadyExported.Keep)]
-    public class InAnotherFile : IService {} 
-    
-    public interface ICommandHandler {}
+    [ExportEx(typeof(IService), IfAlreadyExported = IfAlreadyExported.Keep)]
+    public class InAnotherFile : IService { }
+
+    public interface ICommandHandler { }
 
     // exports with the enumeration keys
     public enum CommandKey { Add, Delete }
 
     [ExportEx(CommandKey.Add, typeof(ICommandHandler))]
-    public class AddCommandHandler : ICommandHandler {} 
+    public class AddCommandHandler : ICommandHandler { }
 
     [ExportEx(CommandKey.Delete, typeof(ICommandHandler))]
-    public class DeleteCommandHandler : ICommandHandler {} 
-} 
+    public class DeleteCommandHandler : ICommandHandler { }
+}
 ```
 
 #### ExportMany
@@ -316,23 +320,24 @@ class DryIocAttributes_ExportEx
 It allows to omit the `typeof(IService)` contract because it will be figured-out automatically by the `ExportMany`:
 
 ```cs
-public class DryIocAttributes_ExportMany 
+public class DryIocAttributes_ExportMany
 {
-    [Test] public void Example()
+    [Test]
+    public void Example()
     {
         var c = new Container().WithMefAttributedModel(); // WithMefAttributedModel is not required for the Exports to work, it is required for the Imports
-        
+
         c.RegisterExports(typeof(ServiceImpl));
 
         Assert.IsNotNull(c.Resolve<IService>());
         Assert.IsNull(c.Resolve<ServiceImpl>(ifUnresolvedReturnDefault: true));
-    } 
+    }
 
-    public interface IService {}
+    public interface IService { }
 
     [ExportMany] // automatically discovers the `IService` interface for registration
-    class ServiceImpl : IService {}
-} 
+    class ServiceImpl : IService { }
+}
 ```
 
 Additionally `ExportMany` provides the facilities to:
@@ -343,7 +348,8 @@ Additionally `ExportMany` provides the facilities to:
 ```cs
 public class ExportMany_with_Except_and_NonPublic_options
 {
-    [Test] public void Example()
+    [Test]
+    public void Example()
     {
         var c = new Container().WithMefAttributedModel();
 
@@ -352,15 +358,15 @@ public class ExportMany_with_Except_and_NonPublic_options
         Assert.IsNotNull(c.Resolve<X>());
         Assert.IsNotNull(c.Resolve<IA>());
         Assert.IsNull(c.Resolve<IB>(ifUnresolvedReturnDefault: true));
-    } 
+    }
 
     // Exports X, IA and IC, but not IB
     [ExportMany(NonPublic = true, Except = new[] { typeof(IB) })]
-    class X : IA, IB {}
+    class X : IA, IB { }
 
-    interface IA {} 
-    public interface IB {} 
-} 
+    interface IA { }
+    public interface IB { }
+}
 ```
 
 ## CreationPolicy and Reuse
@@ -370,19 +376,19 @@ __By default MEF treat all exports as Singletons__: It means that if you do not 
 To register Transient  service you need to specify `PartCreationPolicy(CreationPolicy.NonShared)` attribute:
 
 ```cs
-class Using_CreationPolicy 
+class Using_CreationPolicy
 {
     [Export] // exports Singleton
-    public class A {}
+    public class A { }
 
     [Export] // exports Transient
     [PartCreationPolicy(CreationPolicy.NonShared)]
-    public class B {}
+    public class B { }
 
     [Export] // again Singleton but specified explicitly
     [PartCreationPolicy(CreationPolicy.Shared)]
-    public class C {}
-} 
+    public class C { }
+}
 ```
 
 DryIoc converts MEF `CreationPolicy` into the `DryIoc.IReuse` as following:
@@ -400,17 +406,17 @@ Alternatively __DryIocAttributes__ library introduces the Reuse attributes to su
 
 Example:
 ```cs
-class Using_Reuse_attribute 
+class Using_Reuse_attribute
 {
     [Export, TransientReuse]
-    class A {}
+    class A { }
 
     [Export, WebRequestReuse]
-    class B { public B(A a) {} }
+    class B { public B(A a) { } }
 
     [Export, CurrentScopeReuse("my-scope-name")]
-    class C { public C(A a) {}}
-} 
+    class C { public C(A a) { } }
+}
 ```
 
 
@@ -430,7 +436,8 @@ Example:
 ```cs 
 public class Import_specification
 {
-    [Test] public void Example() 
+    [Test]
+    public void Example()
     {
         var container = new Container().WithMefAttributedModel();
         container.RegisterExports(typeof(A), typeof(B));
@@ -438,17 +445,17 @@ public class Import_specification
         Assert.IsNotNull(b.A);
     }
 
-    public interface IA {}
+    public interface IA { }
 
     [Export("some-key", typeof(IA))]
-    public class A : IA {}
+    public class A : IA { }
 
     [Export]
-    public class B 
+    public class B
     {
         public IA A { get; private set; }
 
-        public B([Import("some-key", AllowDefault=true)]IA a) { A = a; }
+        public B([Import("some-key", AllowDefault = true)] IA a) { A = a; }
     }
 }
 ```
@@ -469,15 +476,15 @@ class Using_ImportEx_attribute
     public enum Speed { Fast, Slow }
 
     [ExportMany(ContractKey = Speed.Fast)]
-    public class A : I {}
+    public class A : I { }
 
     [ExportMany(ContractKey = Speed.Slow)]
-    public class B : I {}
+    public class B : I { }
 
     [Export]
-    public class C 
+    public class C
     {
-        public C([ImportEx(Speed.Fast)]I i) { /* will import i as A */ }
+        public C([ImportEx(Speed.Fast)] I i) { /* will import i as A */ }
     }
 }
 ```
@@ -492,7 +499,7 @@ This is useful for ad-hoc registration of types from not controlled libraries.
 class Using_ImportExternal
 {
     // A third-party MEF-ignorant library
-    class AwesomeService : IService {}
+    class AwesomeService : IService { }
 
     // My library code
     [Export]
@@ -525,16 +532,18 @@ Metadata has two goals:
 ```cs 
 class Using_WithMetadata
 {
-    [ExportMany][WithMetadata("a")]
-    public class X : I {}
+    [ExportMany]
+    [WithMetadata("a")]
+    public class X : I { }
 
-    [ExportMany][WithMetadata("b")]
-    public class Y : I {}
+    [ExportMany]
+    [WithMetadata("b")]
+    public class Y : I { }
 
     [Export]
-    public class Client 
+    public class Client
     {
-        public Client([WithMetadata("b")]I it) { /* will import it as Y */}
+        public Client([WithMetadata("b")] I it) { /* will import it as Y */}
     }
 }
 ```
@@ -553,7 +562,8 @@ To prevent the exception for specific export you can mark it with `AllowDisposab
 ```cs 
 public class Exporting_disposable_transient
 {
-    [Test] public void Example() 
+    [Test]
+    public void Example()
     {
         var c = new Container().WithMefAttributedModel();
 
@@ -564,7 +574,7 @@ public class Exporting_disposable_transient
         {
             var foo = c.Resolve<Foo>();
             Assert.IsNotNull(foo);
-            
+
             // disposing is the client responsibility
             foo.Dispose();
         }
@@ -573,7 +583,7 @@ public class Exporting_disposable_transient
     [Export, AllowDisposableTransient]
     public class Foo : IDisposable
     {
-        public void Dispose() {}
+        public void Dispose() { }
     }
 }
 ```
@@ -590,13 +600,15 @@ The attribute corresponds to DryIoc registration option [trackDisposableTransien
 ```cs 
 public class Exporting_with_TrackDisposableTransient
 {
-    [Export][TrackDisposableTransient]
+    [Export]
+    [TrackDisposableTransient]
     public class Foo : IDisposable
     {
-        public void Dispose() {}
+        public void Dispose() { }
     }
 
-    [Test] public void Example() 
+    [Test]
+    public void Example()
     {
         var c = new Container().WithMefAttributedModel();
 

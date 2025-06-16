@@ -60,7 +60,8 @@ namespace DryIoc.UnitTests
         [Register<IA, A>(ReuseAs.Singleton)]
         [Register<B>(ReuseAs = ReuseAs.Scoped)]
         [Register<B2>(ReuseAs = ReuseAs.ScopedOrSingleton)]
-        public static class DiConfig { }
+        [CompileTimeContainer<Action<B2>>]
+        public partial class DiConfig { }
 
         [Test]
         public void Test_generating_the_object_graph()
