@@ -17608,26 +17608,13 @@ public class RegisterAttribute<TImplementation> : RegisterAttribute
 /// <summary>Provide declarative arguments to the `GenerateCompileTimeContainerCSharpCode` for the Source Generator</summary>
 [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Interface,
     AllowMultiple = true, Inherited = true)]
-public class CompileTimeContainerAttribute : Attribute
+public sealed class CompileTimeContainerAttribute : Attribute
 {
     /// <summary>The resolution roots</summary>
     public Type[] RootTypes { get; set; } = ArrayTools.Empty<Type>();
 
     /// <summary>The usings provided by the user</summary>
     public string[] NamespaceUsings { get; set; } = ArrayTools.Empty<string>();
-
-    /// <summary>Base root selector to be overriden in the inheritent attributes</summary>
-    public virtual ServiceInfo[] SelectRoots(ServiceRegistrationInfo reg) => ArrayTools.Empty<ServiceInfo>();
-}
-
-/// <summary>Allows to specify the roots via the compile-time type arguments passed to the Action,
-/// e.g. `Action{IFoo, Bar}` specifies 2 resolution roots, `IFoo` and `Bar`</summary>
-[AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Interface,
-    AllowMultiple = true, Inherited = true)]
-public class CompileTimeContainerAttribute<TActionRoots> : Attribute where TActionRoots : Delegate
-{
-    /// <summary>The resolution roots</summary>
-    public Type[] RootTypes { get; set; } = typeof(TActionRoots).GetGenericArguments();
 }
 
 /// <summary>Ports some methods from .Net 4.0/4.5</summary>

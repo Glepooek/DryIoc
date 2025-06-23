@@ -57,10 +57,10 @@ namespace DryIoc.UnitTests
             public B2(A a) => A = a;
         }
 
-        [Register<IA, A>(ReuseAs.Singleton)]
-        [Register<B>(ReuseAs = ReuseAs.Scoped)]
-        [Register<B2>(ReuseAs = ReuseAs.ScopedOrSingleton)]
-        [CompileTimeContainer<Action<B2>>]
+        [Register(typeof(IA), typeof(A), ReuseAs.Singleton)]
+        [Register(typeof(B), typeof(B), ReuseAs.Scoped)]
+        [Register(typeof(B2), typeof(B2), ReuseAs.ScopedOrSingleton)]
+        [CompileTimeContainer(RootTypes = new[] { typeof(B2) })]
         public partial class DiConfig { }
 
         [Test]

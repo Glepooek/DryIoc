@@ -4,7 +4,21 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "name": "Debug Unit Test - Test_generating_the_object_graph_with_the_missing_services",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "dotnet",
+            "args": [
+                "test",
+                "${workspaceFolder}/test/DryIoc.UnitTests/DryIoc.UnitTests.csproj",
+                "--filter",
+                "Test_generating_the_object_graph_with_the_missing_services"
+            ],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
         {
             "name": "MediatR comptime",
             "type": "coreclr",
