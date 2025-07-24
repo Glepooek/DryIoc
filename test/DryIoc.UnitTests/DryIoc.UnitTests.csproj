@@ -9,8 +9,6 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\DryIoc\DryIoc.csproj" />
     <ProjectReference Include="..\FastExpressionCompiler.ILDecoder\FastExpressionCompiler.ILDecoder.csproj" />
-
-    <ProjectReference Include="..\..\src\DryIoc.CompileTimeContainer.SourceGenerator\DryIoc.CompileTimeContainer.SourceGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
   </ItemGroup>
 
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
